@@ -1,0 +1,760 @@
+array(37) {
+  ["durum"]=>
+  string(2) "ok"
+  [0]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505047"
+    ["AD_SOYAD"]=>
+    string(13) "RASİM SAVAŞ"
+    ["NOTU"]=>
+    string(2) "51"
+    ["T_SKOR"]=>
+    string(5) "50,02"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [1]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505010"
+    ["AD_SOYAD"]=>
+    string(21) "ZAFER FARUK ÖZDEMİR"
+    ["NOTU"]=>
+    string(2) "52"
+    ["T_SKOR"]=>
+    string(5) "50,66"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [2]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505037"
+    ["AD_SOYAD"]=>
+    string(21) "SÜMEYYE SEVDE KILIÇ"
+    ["NOTU"]=>
+    string(2) "60"
+    ["T_SKOR"]=>
+    string(5) "55,78"
+    ["HARF_NOTU"]=>
+    string(2) "BB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [3]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505005"
+    ["AD_SOYAD"]=>
+    string(16) "KAAN ENES KAPICI"
+    ["NOTU"]=>
+    string(2) "60"
+    ["T_SKOR"]=>
+    string(5) "55,78"
+    ["HARF_NOTU"]=>
+    string(2) "BB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [4]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505045"
+    ["AD_SOYAD"]=>
+    string(12) "DAMLA KUŞKU"
+    ["NOTU"]=>
+    string(2) "47"
+    ["T_SKOR"]=>
+    string(5) "47,46"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [5]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505041"
+    ["AD_SOYAD"]=>
+    string(13) "ERDEM ŞAHİN"
+    ["NOTU"]=>
+    string(2) "20"
+    ["T_SKOR"]=>
+    string(5) "30,17"
+    ["HARF_NOTU"]=>
+    string(2) "FF"
+    ["GECME_DURUM"]=>
+    string(6) "Kaldı"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [6]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505023"
+    ["AD_SOYAD"]=>
+    string(16) "SERKAN KOCAİRİ"
+    ["NOTU"]=>
+    string(2) "45"
+    ["T_SKOR"]=>
+    string(5) "46,18"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [7]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505035"
+    ["AD_SOYAD"]=>
+    string(15) "SİMGE ÇELEBİ"
+    ["NOTU"]=>
+    string(2) "49"
+    ["T_SKOR"]=>
+    string(5) "48,74"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [8]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505012"
+    ["AD_SOYAD"]=>
+    string(15) "MERVE GÜLAÇTI"
+    ["NOTU"]=>
+    string(2) "17"
+    ["T_SKOR"]=>
+    string(1) "0"
+    ["HARF_NOTU"]=>
+    string(2) "FF"
+    ["GECME_DURUM"]=>
+    string(6) "Kaldı"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [9]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505046"
+    ["AD_SOYAD"]=>
+    string(12) "OZAN ULUDAĞ"
+    ["NOTU"]=>
+    string(2) "41"
+    ["T_SKOR"]=>
+    string(5) "43,62"
+    ["HARF_NOTU"]=>
+    string(2) "DD"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [10]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505015"
+    ["AD_SOYAD"]=>
+    string(14) "HİLAL DİKMAN"
+    ["NOTU"]=>
+    string(2) "43"
+    ["T_SKOR"]=>
+    string(5) "44,90"
+    ["HARF_NOTU"]=>
+    string(2) "DC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [11]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505036"
+    ["AD_SOYAD"]=>
+    string(12) "MELEK DEDİK"
+    ["NOTU"]=>
+    string(2) "31"
+    ["T_SKOR"]=>
+    string(5) "37,22"
+    ["HARF_NOTU"]=>
+    string(2) "FF"
+    ["GECME_DURUM"]=>
+    string(6) "Kaldı"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [12]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505057"
+    ["AD_SOYAD"]=>
+    string(15) "NAZLI CAN ALTIN"
+    ["NOTU"]=>
+    string(2) "51"
+    ["T_SKOR"]=>
+    string(5) "50,02"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [13]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505013"
+    ["AD_SOYAD"]=>
+    string(15) "NURSENA ALTUNAY"
+    ["NOTU"]=>
+    string(2) "54"
+    ["T_SKOR"]=>
+    string(5) "51,94"
+    ["HARF_NOTU"]=>
+    string(2) "CB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [14]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505048"
+    ["AD_SOYAD"]=>
+    string(27) "ERTUĞRUL BERAT ALLAHVERDİ"
+    ["NOTU"]=>
+    string(2) "92"
+    ["T_SKOR"]=>
+    string(5) "76,27"
+    ["HARF_NOTU"]=>
+    string(2) "AA"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [15]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505040"
+    ["AD_SOYAD"]=>
+    string(15) "FURKAN KAHVECİ"
+    ["NOTU"]=>
+    string(2) "69"
+    ["T_SKOR"]=>
+    string(5) "61,54"
+    ["HARF_NOTU"]=>
+    string(2) "BA"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [16]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505018"
+    ["AD_SOYAD"]=>
+    string(14) "BARAN BAŞARAN"
+    ["NOTU"]=>
+    string(2) "53"
+    ["T_SKOR"]=>
+    string(5) "51,30"
+    ["HARF_NOTU"]=>
+    string(2) "CB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [17]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505028"
+    ["AD_SOYAD"]=>
+    string(17) "ÖMER FARUK TÜRK"
+    ["NOTU"]=>
+    string(2) "50"
+    ["T_SKOR"]=>
+    string(5) "49,38"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [18]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505055"
+    ["AD_SOYAD"]=>
+    string(18) "NİLÜFER SİLEMEK"
+    ["NOTU"]=>
+    string(2) "54"
+    ["T_SKOR"]=>
+    string(5) "51,94"
+    ["HARF_NOTU"]=>
+    string(2) "CB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [19]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505064"
+    ["AD_SOYAD"]=>
+    string(13) "ELİF ŞAHİN"
+    ["NOTU"]=>
+    string(2) "90"
+    ["T_SKOR"]=>
+    string(5) "74,99"
+    ["HARF_NOTU"]=>
+    string(2) "AA"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [20]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505061"
+    ["AD_SOYAD"]=>
+    string(15) "İSHAK AYYILDIZ"
+    ["NOTU"]=>
+    string(2) "49"
+    ["T_SKOR"]=>
+    string(5) "48,74"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [21]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505007"
+    ["AD_SOYAD"]=>
+    string(19) "FATMA BETÜL TURKUT"
+    ["NOTU"]=>
+    string(2) "78"
+    ["T_SKOR"]=>
+    string(5) "67,30"
+    ["HARF_NOTU"]=>
+    string(2) "AA"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [22]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505019"
+    ["AD_SOYAD"]=>
+    string(18) "FURKAN BERK AKDAŞ"
+    ["NOTU"]=>
+    string(2) "36"
+    ["T_SKOR"]=>
+    string(5) "40,42"
+    ["HARF_NOTU"]=>
+    string(2) "FF"
+    ["GECME_DURUM"]=>
+    string(6) "Kaldı"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [23]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505051"
+    ["AD_SOYAD"]=>
+    string(12) "ŞAHAN AYDIN"
+    ["NOTU"]=>
+    string(2) "56"
+    ["T_SKOR"]=>
+    string(5) "53,22"
+    ["HARF_NOTU"]=>
+    string(2) "CB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [24]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505053"
+    ["AD_SOYAD"]=>
+    string(13) "SELİN DURSUN"
+    ["NOTU"]=>
+    string(2) "44"
+    ["T_SKOR"]=>
+    string(5) "45,54"
+    ["HARF_NOTU"]=>
+    string(2) "DC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [25]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505004"
+    ["AD_SOYAD"]=>
+    string(19) "ONUR EMRE BOZDEMİR"
+    ["NOTU"]=>
+    string(2) "56"
+    ["T_SKOR"]=>
+    string(5) "53,22"
+    ["HARF_NOTU"]=>
+    string(2) "CB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [26]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505050"
+    ["AD_SOYAD"]=>
+    string(13) "BURAK AKBULUT"
+    ["NOTU"]=>
+    string(2) "38"
+    ["T_SKOR"]=>
+    string(5) "41,70"
+    ["HARF_NOTU"]=>
+    string(2) "FF"
+    ["GECME_DURUM"]=>
+    string(6) "Kaldı"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [27]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505025"
+    ["AD_SOYAD"]=>
+    string(18) "NİHAT ALP CİNCAN"
+    ["NOTU"]=>
+    string(2) "62"
+    ["T_SKOR"]=>
+    string(5) "57,06"
+    ["HARF_NOTU"]=>
+    string(2) "BB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [28]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505020"
+    ["AD_SOYAD"]=>
+    string(16) "UĞURCAN SEZGİN"
+    ["NOTU"]=>
+    string(2) "50"
+    ["T_SKOR"]=>
+    string(5) "49,38"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [29]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505058"
+    ["AD_SOYAD"]=>
+    string(12) "BİRKAN KORU"
+    ["NOTU"]=>
+    string(2) "56"
+    ["T_SKOR"]=>
+    string(5) "53,22"
+    ["HARF_NOTU"]=>
+    string(2) "CB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [30]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505016"
+    ["AD_SOYAD"]=>
+    string(19) "BÜNYAMİN GÖKKAYA"
+    ["NOTU"]=>
+    string(2) "29"
+    ["T_SKOR"]=>
+    string(5) "35,93"
+    ["HARF_NOTU"]=>
+    string(2) "FF"
+    ["GECME_DURUM"]=>
+    string(6) "Kaldı"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [31]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505038"
+    ["AD_SOYAD"]=>
+    string(18) "MELİH ÖZGÜVENÇ"
+    ["NOTU"]=>
+    string(2) "60"
+    ["T_SKOR"]=>
+    string(5) "55,78"
+    ["HARF_NOTU"]=>
+    string(2) "BB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [32]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505039"
+    ["AD_SOYAD"]=>
+    string(24) "MUHAMMED CİHAD YILDIRIM"
+    ["NOTU"]=>
+    string(2) "60"
+    ["T_SKOR"]=>
+    string(5) "55,78"
+    ["HARF_NOTU"]=>
+    string(2) "BB"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [33]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505052"
+    ["AD_SOYAD"]=>
+    string(12) "BERKAY ATEŞ"
+    ["NOTU"]=>
+    string(2) "41"
+    ["T_SKOR"]=>
+    string(5) "43,62"
+    ["HARF_NOTU"]=>
+    string(2) "DD"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [34]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505003"
+    ["AD_SOYAD"]=>
+    string(16) "AYŞENUR SÜNGÜ"
+    ["NOTU"]=>
+    string(2) "49"
+    ["T_SKOR"]=>
+    string(5) "48,74"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+  [35]=>
+  array(9) {
+    ["OGR_NO"]=>
+    string(10) "1160505008"
+    ["AD_SOYAD"]=>
+    string(14) "ÖZGÜR YILMAZ"
+    ["NOTU"]=>
+    string(2) "52"
+    ["T_SKOR"]=>
+    string(5) "50,66"
+    ["HARF_NOTU"]=>
+    string(2) "CC"
+    ["GECME_DURUM"]=>
+    string(6) "Geçti"
+    ["DERS_ALMA_TIP"]=>
+    string(8) "Seçmeli"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+  }
+}

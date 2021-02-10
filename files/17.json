@@ -1,0 +1,27 @@
+array(4) { 
+    ["durum"]=> string(2) "ok" 
+    [0]=> array(10) {
+        ["DONEM_AD"]=> string(22) "2018-2019 Güz Dönemi" 
+        ["DERS_KOD"]=> string(8) "YAZ18301" 
+        ["SUBE_KOD"]=> string(1) "1" 
+        ["DERS_AD"]=> string(19) "GÖRSEL PROGRAMLAMA" 
+        ["SINAV_TIP"]=> string(10) "Ara Sınav"
+        ["GIRME_DURUM"]=> string(1) "1" 
+        ["SINAV_ADI"]=> string(14) "Kısa Sınav 1" 
+        ["NOT_DEGER"]=> string(2) "65" 
+        ["DERS_NOT_ORT"]=> string(14) "Sonuçlanmadı" 
+        ["HARF_NOT"]=> string(14) "Sonuçlanmadı" 
+    }
+    [1]=> array(10) { 
+        ["DONEM_AD"]=> string(22) "2018-2019 Güz Dönemi" 
+        ["DERS_KOD"]=> string(8) "YAZ18301" 
+        ["SUBE_KOD"]=> string(1) "1" 
+        ["DERS_AD"]=> string(19) "GÖRSEL PROGRAMLAMA" 
+        ["SINAV_TIP"]=> string(10) "Ara Sınav" 
+        ["GIRME_DURUM"]=> string(1) "1" 
+        ["SINAV_ADI"]=> string(4) "Vize" 
+        ["NOT_DEGER"]=> string(2) "50" 
+        ["DERS_NOT_ORT"]=> string(14) "Sonuçlanmadı" 
+        ["HARF_NOT"]=> string(14) "Sonuçlanmadı" 
+    }
+}

@@ -1,0 +1,697 @@
+array(22) {
+  ["durum"]=>
+  string(2) "ok"
+  [0]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159720"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "2"
+    ["DERS_KODU"]=>
+    string(8) "MUF13202"
+    ["DERS_ADI"]=>
+    string(25) "OLASILIK VE İSTATİSTİK"
+    ["DERS_ADI_EN"]=>
+    string(25) "PROBABILITY AND STATISTIC"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "2"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "2"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(30) "Dr. Öğr. Üyesi FATİH AYDIN"
+  }
+  [1]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159721"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "2"
+    ["DERS_KODU"]=>
+    string(9) "STAJ16001"
+    ["DERS_ADI"]=>
+    string(31) "MESLEK STAJI I (20 İŞ GÜNÜ)"
+    ["DERS_ADI_EN"]=>
+    string(30) "INTERNSHIP I (20 WORKING DAYS)"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "0"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "0"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(0) ""
+  }
+  [2]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159722"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "2"
+    ["DERS_KODU"]=>
+    string(8) "UNV13001"
+    ["DERS_ADI"]=>
+    string(18) "GİRİŞİMCİLİK"
+    ["DERS_ADI_EN"]=>
+    string(16) "ENTREPRENEURSHIP"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "2"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "2"
+    ["KREDI"]=>
+    string(1) "2"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(37) "Dr. Öğr. Üyesi SİBEL TOKATLIOĞLU"
+  }
+  [3]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159723"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "2"
+    ["DERS_KODU"]=>
+    string(8) "YAZ16202"
+    ["DERS_ADI"]=>
+    string(37) "VERİTABANI YÖNETİM SİSTEMLERİ II"
+    ["DERS_ADI_EN"]=>
+    string(30) "DATABASE MANAGEMENT SYSTEMS II"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "4"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "5"
+    ["KREDI"]=>
+    string(1) "4"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(28) "Dr. Öğr. Üyesi BORA ASLAN"
+  }
+  [4]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159724"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "2"
+    ["DERS_KODU"]=>
+    string(8) "YAZ16206"
+    ["DERS_ADI"]=>
+    string(46) "BİLGİSAYAR BİLİMLERİNDE NÜMERİK ANALİZ"
+    ["DERS_ADI_EN"]=>
+    string(38) "NUMERICAL ANALYSIS OF COMPUTER SCIENCE"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "3"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "5"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(33) "Dr. Öğr. Üyesi HAKAN ÜSTÜNEL"
+  }
+  [5]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159725"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "2"
+    ["DERS_KODU"]=>
+    string(8) "YAZ16208"
+    ["DERS_ADI"]=>
+    string(32) "ALGORİTMA ANALİZİ VE TASARIMI"
+    ["DERS_ADI_EN"]=>
+    string(29) "ALGORITHM ANALYSIS AND DESIGN"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "4"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "5"
+    ["KREDI"]=>
+    string(1) "4"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(37) "Dr. Öğr. Üyesi EDİP SERDAR GÜNER"
+  }
+  [6]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159726"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "3"
+    ["DERS_KODU"]=>
+    string(9) "STAJ16002"
+    ["DERS_ADI"]=>
+    string(32) "MESLEK STAJI II (20 İŞ GÜNÜ)"
+    ["DERS_ADI_EN"]=>
+    string(31) "INTERNSHIP II (20 WORKING DAYS)"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "0"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "0"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(0) ""
+  }
+  [7]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159727"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "3"
+    ["DERS_KODU"]=>
+    string(8) "UNV13021"
+    ["DERS_ADI"]=>
+    string(24) "MESLEKİ İNGİLİZCE II"
+    ["DERS_ADI_EN"]=>
+    string(20) "TECHNICAL ENGLISH II"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "3"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(26) "Öğr.Gör. GÖKHAN ÖZKAN"
+  }
+  [8]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159728"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "3"
+    ["DERS_KODU"]=>
+    string(8) "YAZ16304"
+    ["DERS_ADI"]=>
+    string(25) "YAZILIM PROJE YÖNETİMİ"
+    ["DERS_ADI_EN"]=>
+    string(27) "SOFTWARE PROJECT MANAGEMENT"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "3"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(30) "Dr. Öğr. Üyesi DOĞAN ÜNAL"
+  }
+  [9]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159729"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "3"
+    ["DERS_KODU"]=>
+    string(8) "YAZ16310"
+    ["DERS_ADI"]=>
+    string(27) "SAYISAL GÖRÜNTÜ İŞLEME"
+    ["DERS_ADI_EN"]=>
+    string(24) "DIGITAL IMAGE PROCESSING"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "3"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(36) "Dr. Öğr. Üyesi MURAT OLCAY ÖZCAN"
+  }
+  [10]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159730"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "3"
+    ["DERS_KODU"]=>
+    string(8) "YAZ18302"
+    ["DERS_ADI"]=>
+    string(48) "VERİ MADENCİLİĞİ VE BÜYÜK VERİ ANALİZİ"
+    ["DERS_ADI_EN"]=>
+    string(33) "DATA MINING AND BIG DATA ANALYSIS"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "2"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "2"
+    ["AKTS"]=>
+    string(1) "5"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(37) "Dr. Öğr. Üyesi EDİP SERDAR GÜNER"
+  }
+  [11]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159731"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "3"
+    ["DERS_KODU"]=>
+    string(8) "YAZ18306"
+    ["DERS_ADI"]=>
+    string(29) "MOBİL UYGULAMA GELİŞTİRME"
+    ["DERS_ADI_EN"]=>
+    string(30) "MOBILE APPLICATION DEVELOPMENT"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "2"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "2"
+    ["AKTS"]=>
+    string(1) "5"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(30) "Dr. Öğr. Üyesi FATİH AYDIN"
+  }
+  [12]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159732"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "3"
+    ["DERS_KODU"]=>
+    string(8) "YAZ18314"
+    ["DERS_ADI"]=>
+    string(20) "GÖMÜLÜ SİSTEMLER"
+    ["DERS_ADI_EN"]=>
+    string(16) "EMBEDDED SYSTEMS"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "3"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(33) "Dr. Öğr. Üyesi HAKAN ÜSTÜNEL"
+  }
+  [13]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159718"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "1"
+    ["DERS_KODU"]=>
+    string(8) "FIZ13152"
+    ["DERS_ADI"]=>
+    string(10) "FİZİK II"
+    ["DERS_ADI_EN"]=>
+    string(10) "PHYSICS II"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "3"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "5"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(31) "Dr. Öğr. Üyesi MUSTAFA ULAŞ"
+  }
+  [14]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1159719"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "1"
+    ["DERS_KODU"]=>
+    string(8) "MAT13152"
+    ["DERS_ADI"]=>
+    string(13) "MATEMATİK II"
+    ["DERS_ADI_EN"]=>
+    string(14) "MATHEMATICS II"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "4"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "6"
+    ["KREDI"]=>
+    string(1) "4"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(30) "Dr. Öğr. Üyesi DOĞAN ÜNAL"
+  }
+  [15]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1158822"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "1"
+    ["DERS_KODU"]=>
+    string(8) "YAZ16102"
+    ["DERS_ADI"]=>
+    string(31) "VERİ YAPILARI VE ALGORİTMALAR"
+    ["DERS_ADI_EN"]=>
+    string(30) "DATA STRUCTURES AND ALGORITHMS"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "3"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "2"
+    ["AKTS"]=>
+    string(1) "7"
+    ["KREDI"]=>
+    string(1) "4"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(37) "Dr. Öğr. Üyesi EDİP SERDAR GÜNER"
+  }
+  [16]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1158823"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "2"
+    ["DERS_KODU"]=>
+    string(8) "YAZ16204"
+    ["DERS_ADI"]=>
+    string(18) "WEB PROGRAMLAMA II"
+    ["DERS_ADI_EN"]=>
+    string(18) "WEB PROGRAMMING II"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "2"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "2"
+    ["AKTS"]=>
+    string(1) "5"
+    ["KREDI"]=>
+    string(1) "3"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(36) "Dr. Öğr. Üyesi MURAT OLCAY ÖZCAN"
+  }
+  [17]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1158760"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "1"
+    ["DERS_KODU"]=>
+    string(8) "UNV13106"
+    ["DERS_ADI"]=>
+    string(15) "İNGİLİZCE II"
+    ["DERS_ADI_EN"]=>
+    string(10) "ENGLISH II"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "4"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "4"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(24) "Öğr.Gör. AYFER TANIŞ"
+  }
+  [18]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1158819"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "1"
+    ["DERS_KODU"]=>
+    string(8) "UNV13102"
+    ["DERS_ADI"]=>
+    string(15) "TÜRK DİLİ II"
+    ["DERS_ADI_EN"]=>
+    string(10) "TURKISH II"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "2"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "2"
+    ["KREDI"]=>
+    string(1) "2"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(28) "Öğr.Gör.Dr. ENSAR ALEMDAR"
+  }
+  [19]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1158820"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "1"
+    ["DERS_KODU"]=>
+    string(8) "UNV13104"
+    ["DERS_ADI"]=>
+    string(43) "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II"
+    ["DERS_ADI_EN"]=>
+    string(54) "PRINCIPLES OF ATATURK AND HISTORY OF THE REVOLUTION II"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "2"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "2"
+    ["KREDI"]=>
+    string(1) "2"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(31) "Öğr.Gör. ALİ OSMAN GÜNDÜZ"
+  }
+  [20]=>
+  array(15) {
+    ["DERS_HAR_ID"]=>
+    string(7) "1158821"
+    ["DONEM_AD"]=>
+    string(23) "2018-2019 Bahar Dönemi"
+    ["DERS_SUBE_KOD"]=>
+    string(1) "1"
+    ["SINIF"]=>
+    string(1) "1"
+    ["DERS_KODU"]=>
+    string(8) "YAZ16104"
+    ["DERS_ADI"]=>
+    string(34) "İŞLETİM SİSTEMLERİNE GİRİŞ"
+    ["DERS_ADI_EN"]=>
+    string(33) "INTRODUCTION TO OPERATING SYSTEMS"
+    ["DERS_YUKU_TEORIK"]=>
+    string(1) "2"
+    ["DERS_YUKU_UYGULAMA"]=>
+    string(1) "0"
+    ["AKTS"]=>
+    string(1) "4"
+    ["KREDI"]=>
+    string(1) "2"
+    ["FAKULTE_AD"]=>
+    string(26) "MÜHENDİSLİK FAKÜLTESİ"
+    ["BOLUM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["PROGRAM_AD"]=>
+    string(25) "YAZILIM MÜHENDİSLİĞİ"
+    ["DERS_OGRETIM_UYE"]=>
+    string(36) "Dr. Öğr. Üyesi MURAT OLCAY ÖZCAN"
+  }
+}

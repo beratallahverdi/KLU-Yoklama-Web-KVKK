@@ -1,0 +1,9 @@
+array(8) { 
+    ["durum"]=> string(2) "ok" 
+    ["ADI"]=> string(12) "EDİP SERDAR" 
+    ["SOYADI"]=> string(6) "GÜNER" 
+    ["UNVAN"]=> string(17) "Dr. Öğr. Üyesi" 
+    ["FOTO_URL"]=> string(123) "https://obs.klu.edu.tr/oibs/zfoto.aspx?gkm=08264995049320960477431248145364854080447267942713774663762443227943217604944700" ["FAK_AD"]=> string(26) "MÜHENDİSLİK FAKÜLTESİ" 
+    ["BOL_AD"]=> string(39) "ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ" 
+    ["PROG_AD"]=> string(39) "ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ" 
+}

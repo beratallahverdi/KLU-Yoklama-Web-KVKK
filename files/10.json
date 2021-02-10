@@ -1,0 +1,27 @@
+array(45) { 
+    ["durum"]=> string(2) "ok" 
+    [0]=> array(10) { 
+        ["DERS_KODU"]=> string(8) "UNV13111" 
+        ["DERS_ADI"]=> string(37) "TEMEL BİLGİ TEKNOLOJİSİ KULLANIMI" 
+        ["DERS_SUBE_KOD"]=> string(1) "1" 
+        ["FAK_AD"]=> string(40) "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU" 
+        ["PROG_AD"]=> string(31) "TIBBİ LABORATUVAR TEKNİKLERİ" 
+        ["DERSLIK_AD"]=> string(21) "UE(UZAKTAN EĞİTİM)" 
+        ["DERSLIK_GUN"]=> string(1) "2" 
+        ["DERS_SAAT"]=> string(5) "08:30" 
+        ["DERS_SURE"]=> string(0) "" 
+        ["ORTAK_DERS"]=> string(1) "1" 
+    } 
+    [1]=> array(10) { 
+        ["DERS_KODU"]=> string(8) "UNV13111" 
+        ["DERS_ADI"]=> string(37) "TEMEL BİLGİ TEKNOLOJİSİ KULLANIMI" 
+        ["DERS_SUBE_KOD"]=> string(1) "1" 
+        ["FAK_AD"]=> string(40) "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU" 
+        ["PROG_AD"]=> string(31) "TIBBİ LABORATUVAR TEKNİKLERİ" 
+        ["DERSLIK_AD"]=> string(21) "UE(UZAKTAN EĞİTİM)" 
+        ["DERSLIK_GUN"]=> string(1) "2" 
+        ["DERS_SAAT"]=> string(5) "09:30" 
+        ["DERS_SURE"]=> string(0) "" 
+        ["ORTAK_DERS"]=> string(1) "1" 
+    }
+}

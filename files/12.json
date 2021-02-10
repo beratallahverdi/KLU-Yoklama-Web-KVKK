@@ -1,0 +1,29 @@
+array(63) { 
+    ["durum"]=> string(2) "ok" 
+    [0]=> array(11) { 
+        ["OGR_NO"]=> string(10) "1170505062" 
+        ["TCKIMLIKNO"]=> string(11) "56599076568" 
+        ["ADI"]=> string(7) "CEMİLE" 
+        ["SOYADI"]=> string(5) "UYMAZ" 
+        ["FAKULTE"]=> string(26) "MÜHENDİSLİK FAKÜLTESİ" 
+        ["PROGRAM"]=> string(25) "YAZILIM MÜHENDİSLİĞİ" 
+        ["KAYIT_TARIHI"]=> string(18) "14.8.2017 11:21:06" 
+        ["KAYIT_NEDEN"]=> string(6) "ÖSYS "
+        ["OGRENIM_DURUM"]=> string(32) "Aktif (E-Devletten Kayıt Yapan)" 
+        ["EPOSTA1"]=> string(23) "cemileuymaz50@gmail.com" 
+        ["GSM1"]=> string(10) "5312909959" 
+    } 
+    [1]=> array(11) { 
+        ["OGR_NO"]=> string(10) "1160505047" 
+        ["TCKIMLIKNO"]=> string(11) "17714089962" 
+        ["ADI"]=> string(6) "RASİM" 
+        ["SOYADI"]=> string(6) "SAVAŞ" 
+        ["FAKULTE"]=> string(26) "MÜHENDİSLİK FAKÜLTESİ" 
+        ["PROGRAM"]=> string(25) "YAZILIM MÜHENDİSLİĞİ" 
+        ["KAYIT_TARIHI"]=> string(18) "12.8.2016 11:12:00" 
+        ["KAYIT_NEDEN"]=> string(6) "ÖSYS " 
+        ["OGRENIM_DURUM"]=> string(32) "Aktif (E-Devletten Kayıt Yapan)" 
+        ["EPOSTA1"]=> string(24) "Rasimsavas.ist@gmail.com" 
+        ["GSM1"]=> string(10) "5303519329" 
+    }
+}

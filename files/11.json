@@ -1,0 +1,26 @@
+array(22) { 
+    ["durum"]=> string(2) "ok" 
+    [0]=> array(10) { 
+        ["DERS_HAR_ID"]=> string(7) "1154114" 
+        ["DERS_KODU"]=> string(8) "UNV13111" 
+        ["DERS_ADI"]=> string(37) "TEMEL BİLGİ TEKNOLOJİSİ KULLANIMI" 
+        ["DERS_SUBE_KOD"]=> string(1) "1" ["KREDI"]=> string(4) "1,50" 
+        ["AKTS"]=> string(1) "2" 
+        ["DERS_TEORIK"]=> string(1) "1" 
+        ["DERS_UYGULAMA"]=> string(1) "1" 
+        ["FAK_AD"]=> string(40) "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU" 
+        ["PROG_AD"]=> string(31) "TIBBİ LABORATUVAR TEKNİKLERİ" 
+    } 
+    [1]=> array(10) { 
+        ["DERS_HAR_ID"]=> string(7) "1154122" 
+        ["DERS_KODU"]=> string(8) "UNV13111" 
+        ["DERS_ADI"]=> string(37) "TEMEL BİLGİ TEKNOLOJİSİ KULLANIMI" 
+        ["DERS_SUBE_KOD"]=> string(1) "1" 
+        ["KREDI"]=> string(4) "1,50"
+        ["AKTS"]=> string(1) "2" 
+        ["DERS_TEORIK"]=> string(1) "1" 
+        ["DERS_UYGULAMA"]=> string(1) "1" 
+        ["FAK_AD"]=> string(40) "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU" 
+        ["PROG_AD"]=> string(38) "TIBBİ LABORATUVAR TEKNİKLERİ (İÖ)" 
+    }
+}

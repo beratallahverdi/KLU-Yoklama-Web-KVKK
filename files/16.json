@@ -1,0 +1,21 @@
+array(29) { 
+    ["durum"]=> string(2) "ok" 
+    ["donem"]=> string(22) "2018-2019 Güz Dönemi" 
+    ["yil"]=> string(4) "2018" 
+    [0]=> array(6) { 
+        ["gun"]=> string(5) "Salı" 
+        ["saat"]=> string(11) "08:30-09:20" 
+        ["derslik"]=> string(3) "217" 
+        ["dersKod"]=> string(11) "UNV13011(1)" 
+        ["dersAd"]=> string(34) "ARAŞTIRMA YÖNTEM VE TEKNİKLERİ" 
+        ["dersinBolumAdi"]=> string(25) "YAZILIM MÜHENDİSLİĞİ" 
+    } 
+    [1]=> array(6) { 
+        ["gun"]=> string(5) "Salı" 
+        ["saat"]=> string(11) "09:30-10:20" 
+        ["derslik"]=> string(3) "217" 
+        ["dersKod"]=> string(11) "UNV13011(1)" 
+        ["dersAd"]=> string(34) "ARAŞTIRMA YÖNTEM VE TEKNİKLERİ" 
+        ["dersinBolumAdi"]=> string(25) "YAZILIM MÜHENDİSLİĞİ" 
+    }
+}

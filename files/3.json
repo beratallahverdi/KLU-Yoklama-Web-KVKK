@@ -1,0 +1,33 @@
+array(31) { 
+    ["durum"]=> string(2) "ok" 
+    ["personelAd"]=> string(11) "MURAT OLCAY" 
+    ["personelSoyad"]=> string(6) "ÖZCAN" 
+    ["personelTckimlikno"]=> float(34150885330) 
+    ["personelEvtel"]=> string(13) "288 511 84 50"
+    ["personelCeptel1"]=> string(14) "(506) 256-9752" 
+    ["personelKurumemail"]=> string(18) "moozcan@klu.edu.tr" 
+    ["personelKisiselemail"]=> string(17) "moozcan@gmail.com" 
+    ["personelIstel"]=> string(14) "(288) 214-0514" 
+    ["personelDahili"]=> string(4) "3029" 
+    ["personelKpsdogumyeri"]=> string(9) "BABAESKİ" 
+    ["personelKpsdogumtar"]=> string(25) "1979-01-07T00:00:00+04:00" 
+    ["personelKpsadres"]=> string(95) "İSTASYON MAH. 1099. SK. BLK YAPI SİTESİ A BLOK NO: 2A İÇ KAPI NO: 9 MERKEZ / KIRKLARELİ" 
+    ["personelAkaunvan"]=> string(23) "Doktor Öğretim Üyesi" 
+    ["personelAkaunvanid"]=> int(10000) 
+    ["personelCinsiyet"]=> string(5) "Erkek" 
+    ["personelIsdoktorali"]=> bool(true) 
+    ["personelResim"]=> string(21952) "Resim" 
+    ["personelKurumsicilno"]=> string(4) "0782" 
+    ["personelBirim"]=> string(26) "MÜHENDİSLİK FAKÜLTESİ" 
+    ["personelBirimid"]=> string(3) "383" 
+    ["personelBolum"]=> string(25) "YAZILIM MÜHENDİSLİĞİ" 
+    ["personelBolumid"]=> string(3) "386" 
+    ["personelAbd"]=> string(25) "YAZILIM MÜHENDİSLİĞİ" 
+    ["personelAbdid"]=> string(3) "387" 
+    ["personelUnvan"]=> string(23) "Doktor Öğretim Üyesi" 
+    ["personelUnvanKisaltma"]=> string(17) "Dr. Öğr. Üyesi" 
+    ["personelUnvanid"]=> int(10000) 
+    ["personelJobrecordtipi"]=> string(8) "Akademik" 
+    ["personelJobrecordalttipi"]=> string(12) "Tam Zamanlı" 
+    ["personelJobrecorddurum"]=> string(5) "Aktif" 
+}

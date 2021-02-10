@@ -1,0 +1,37 @@
+array(13) { 
+    ["durum"]=> string(2) "ok" 
+    [0]=> array(15) { 
+        ["SUBE_KOD"]=> string(1) "1" 
+        ["DERS_KOD"]=> string(8) "YAZ16103" 
+        ["SUBE_DERS_KOD"]=> string(1) "1" 
+        ["DERS_AD"]=> string(36) "YAZILIM MÜHENDİSLİĞİNE GİRİŞ" 
+        ["SINAV_AD"]=> string(14) "Kısa Sınav 1" 
+        ["OGR_UYE_UNVAN"]=> string(17) "Dr. Öğr. Üyesi" 
+        ["OGR_UYE_AD"]=> string(4) "BORA" 
+        ["OGR_UYE_SOYAD"]=> string(5) "ASLAN" 
+        ["TARIH"]=> string(10) "08.11.2018" 
+        ["SAAT"]=> string(5) "11:30" 
+        ["DERSLIK1"]=> string(0) "" 
+        ["DERSLIK2"]=> string(0) "" 
+        ["DERSLIK3"]=> string(0) "" 
+        ["DERSLIK4"]=> string(0) "" 
+        ["DERSLIK5"]=> string(0) "" 
+    } 
+    [1]=> array(15) { 
+        ["SUBE_KOD"]=> string(1) "1" 
+        ["DERS_KOD"]=> string(8) "YAZ16103" 
+        ["SUBE_DERS_KOD"]=> string(1) "1" 
+        ["DERS_AD"]=> string(36) "YAZILIM MÜHENDİSLİĞİNE GİRİŞ" 
+        ["SINAV_AD"]=> string(4) "Vize" 
+        ["OGR_UYE_UNVAN"]=> string(17) "Dr. Öğr. Üyesi" 
+        ["OGR_UYE_AD"]=> string(4) "BORA" 
+        ["OGR_UYE_SOYAD"]=> string(5) "ASLAN" 
+        ["TARIH"]=> string(10) "14.11.2018" 
+        ["SAAT"]=> string(5) "11:00" 
+        ["DERSLIK1"]=> string(0) "" 
+        ["DERSLIK2"]=> string(0) "" 
+        ["DERSLIK3"]=> string(0) "" 
+        ["DERSLIK4"]=> string(0) "" 
+        ["DERSLIK5"]=> string(0) "" 
+    }
+}

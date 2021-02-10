@@ -1,0 +1,9 @@
+array(2) { 
+    ["durum"]=> string(2) "ok" 
+    [0]=> array(4) { 
+        ["isim"]=> string(18) "Murat Olcay ÖZCAN" 
+        ["distinguishedname"]=> string(91) "CN=Murat Olcay ÖZCAN,OU=Akademik,OU=MuhendislikFakultesi,OU=Kirklareli,DC=klu,DC=edu,DC=tr" 
+        ["eposta"]=> string(18) "moozcan@klu.edu.tr" 
+        ["tc"]=> string(11) "34150885330" 
+    }
+}

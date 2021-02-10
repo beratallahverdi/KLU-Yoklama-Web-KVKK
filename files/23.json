@@ -1,0 +1,26 @@
+array(132) {
+    ["durum"]=>
+    string(2) "ok"
+    [0]=>
+    array(4) {
+      ["DONEM_ID"]=>
+      string(5) "20091"
+      ["DONEM_AD"]=>
+      string(22) "2009-2010 Güz Dönemi"
+      ["DONEM_AD_ENG"]=>
+      string(23) "2009-2010 Fall Semester"
+      ["DURUM"]=>
+      string(5) "Pasif"
+    }
+    [1]=>
+    array(4) {
+      ["DONEM_ID"]=>
+      string(5) "19862"
+      ["DONEM_AD"]=>
+      string(23) "1986-1987 Bahar Dönemi"
+      ["DONEM_AD_ENG"]=>
+      string(25) "1986-1987 Spring Semester"
+      ["DURUM"]=>
+      string(5) "Pasif"
+    }
+}

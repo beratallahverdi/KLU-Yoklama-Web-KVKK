@@ -1,0 +1,4057 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [ustid] => 0
+            [ad] => FEN EDEBİYAT FAKÜLTESİ
+        )
+
+    [1] => Array
+        (
+            [id] => 101
+            [ustid] => 1
+            [ad] => FELSEFE
+        )
+
+    [2] => Array
+        (
+            [id] => 10100
+            [ustid] => 101
+            [ad] => FELSEFE
+        )
+
+    [3] => Array
+        (
+            [id] => 102
+            [ustid] => 1
+            [ad] => TARİH
+        )
+
+    [4] => Array
+        (
+            [id] => 10200
+            [ustid] => 102
+            [ad] => TARİH
+        )
+
+    [5] => Array
+        (
+            [id] => 103
+            [ustid] => 1
+            [ad] => TÜRK DİLİ VE EDEBİYATI
+        )
+
+    [6] => Array
+        (
+            [id] => 10300
+            [ustid] => 103
+            [ad] => TÜRK DİLİ VE EDEBİYATI
+        )
+
+    [7] => Array
+        (
+            [id] => 5185
+            [ustid] => 1
+            [ad] => KİMYA
+        )
+
+    [8] => Array
+        (
+            [id] => 5265
+            [ustid] => 5185
+            [ad] => KİMYA
+        )
+
+    [9] => Array
+        (
+            [id] => 5186
+            [ustid] => 1
+            [ad] => FİZİK
+        )
+
+    [10] => Array
+        (
+            [id] => 5266
+            [ustid] => 5186
+            [ad] => FİZİK
+        )
+
+    [11] => Array
+        (
+            [id] => 7178
+            [ustid] => 1
+            [ad] => SOSYOLOJİ
+        )
+
+    [12] => Array
+        (
+            [id] => 715723
+            [ustid] => 7178
+            [ad] => SOSYOLOJİ
+        )
+
+    [13] => Array
+        (
+            [id] => 7180
+            [ustid] => 1
+            [ad] => MATEMATİK
+        )
+
+    [14] => Array
+        (
+            [id] => 715721
+            [ustid] => 7180
+            [ad] => MATEMATİK
+        )
+
+    [15] => Array
+        (
+            [id] => 7378
+            [ustid] => 1
+            [ad] => ÇAĞDAŞ TÜRK LEHÇELERİ VE EDEBİYATLARI
+        )
+
+    [16] => Array
+        (
+            [id] => 715901
+            [ustid] => 7378
+            [ad] => ÇAĞDAŞ TÜRK LEHÇELERİ VE EDEBİYATLARI
+        )
+
+    [17] => Array
+        (
+            [id] => 7452
+            [ustid] => 1
+            [ad] => MÜTERCİM-TERCÜMANLIK
+        )
+
+    [18] => Array
+        (
+            [id] => 715961
+            [ustid] => 7452
+            [ad] => MÜTERCİM-TERCÜMANLIK (İNGİLİZCE)
+        )
+
+    [19] => Array
+        (
+            [id] => 15100
+            [ustid] => 101
+            [ad] => FELSEFE (İÖ)
+        )
+
+    [20] => Array
+        (
+            [id] => 15200
+            [ustid] => 102
+            [ad] => TARİH (İÖ)
+        )
+
+    [21] => Array
+        (
+            [id] => 15300
+            [ustid] => 103
+            [ad] => TÜRK DİLİ VE EDEBİYATI (İÖ)
+        )
+
+    [22] => Array
+        (
+            [id] => 5295
+            [ustid] => 5185
+            [ad] => KİMYA (İÖ)
+        )
+
+    [23] => Array
+        (
+            [id] => 715724
+            [ustid] => 7178
+            [ad] => SOSYOLOJİ (İÖ)
+        )
+
+    [24] => Array
+        (
+            [id] => 715722
+            [ustid] => 7180
+            [ad] => MATEMATİK (İÖ)
+        )
+
+    [25] => Array
+        (
+            [id] => 2
+            [ustid] => 0
+            [ad] => İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ
+        )
+
+    [26] => Array
+        (
+            [id] => 251
+            [ustid] => 2
+            [ad] => İŞLETME
+        )
+
+    [27] => Array
+        (
+            [id] => 20100
+            [ustid] => 251
+            [ad] => İŞLETME
+        )
+
+    [28] => Array
+        (
+            [id] => 202
+            [ustid] => 2
+            [ad] => İKTİSAT
+        )
+
+    [29] => Array
+        (
+            [id] => 20200
+            [ustid] => 202
+            [ad] => İKTİSAT
+        )
+
+    [30] => Array
+        (
+            [id] => 5187
+            [ustid] => 2
+            [ad] => KAMU YÖNETİMİ
+        )
+
+    [31] => Array
+        (
+            [id] => 5267
+            [ustid] => 5187
+            [ad] => KAMU YÖNETİMİ
+        )
+
+    [32] => Array
+        (
+            [id] => 7182
+            [ustid] => 2
+            [ad] => ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ
+        )
+
+    [33] => Array
+        (
+            [id] => 715741
+            [ustid] => 7182
+            [ad] => ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ
+        )
+
+    [34] => Array
+        (
+            [id] => 7392
+            [ustid] => 2
+            [ad] => ULUSLARARASI İLİŞKİLER
+        )
+
+    [35] => Array
+        (
+            [id] => 715915
+            [ustid] => 7392
+            [ad] => ULUSLARARASI İLİŞKİLER
+        )
+
+    [36] => Array
+        (
+            [id] => 7598
+            [ustid] => 2
+            [ad] => SİYASET BİLİMİ VE KAMU YÖNETİMİ 
+        )
+
+    [37] => Array
+        (
+            [id] => 716044
+            [ustid] => 7598
+            [ad] => SİYASET BİLİMİ VE KAMU YÖNETİMİ
+        )
+
+    [38] => Array
+        (
+            [id] => 25100
+            [ustid] => 251
+            [ad] => İŞLETME (İÖ)
+        )
+
+    [39] => Array
+        (
+            [id] => 25200
+            [ustid] => 202
+            [ad] => İKTİSAT (İÖ)
+        )
+
+    [40] => Array
+        (
+            [id] => 5305
+            [ustid] => 5187
+            [ad] => KAMU YÖNETİMİ (İÖ)
+        )
+
+    [41] => Array
+        (
+            [id] => 715742
+            [ustid] => 7182
+            [ad] => ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ (İÖ)
+        )
+
+    [42] => Array
+        (
+            [id] => 715916
+            [ustid] => 7392
+            [ad] => ULUSLARARASI İLİŞKİLER (İÖ)
+        )
+
+    [43] => Array
+        (
+            [id] => 716045
+            [ustid] => 7598
+            [ad] => SİYASET BİLİMİ VE KAMU YÖNETİMİ (İÖ)
+        )
+
+    [44] => Array
+        (
+            [id] => 3
+            [ustid] => 0
+            [ad] => TEKNOLOJİ FAKÜLTESİ
+        )
+
+    [45] => Array
+        (
+            [id] => 7386
+            [ustid] => 3
+            [ad] => MEKATRONİK MÜHENDİSLİĞİ
+        )
+
+    [46] => Array
+        (
+            [id] => 715907
+            [ustid] => 7386
+            [ad] => MEKATRONİK MÜHENDİSLİĞİ
+        )
+
+    [47] => Array
+        (
+            [id] => 715908
+            [ustid] => 7386
+            [ad] => MEKATRONİK MÜHENDİSLİĞİ (MTOK)
+        )
+
+    [48] => Array
+        (
+            [id] => 7446
+            [ustid] => 3
+            [ad] => ENERJİ SİSTEMLERİ MÜHENDİSLİĞİ
+        )
+
+    [49] => Array
+        (
+            [id] => 715963
+            [ustid] => 7446
+            [ad] => ENERJİ SİSTEMLERİ MÜHENDİSLİĞİ
+        )
+
+    [50] => Array
+        (
+            [id] => 715964
+            [ustid] => 7446
+            [ad] => ENERJİ SİSTEMLERİ MÜHENDİSLİĞİ (MTOK)
+        )
+
+    [51] => Array
+        (
+            [id] => 4
+            [ustid] => 0
+            [ad] => TURİZM FAKÜLTESİ
+        )
+
+    [52] => Array
+        (
+            [id] => 5165
+            [ustid] => 4
+            [ad] => TURİZM İŞLETMECİLİĞİ
+        )
+
+    [53] => Array
+        (
+            [id] => 5245
+            [ustid] => 5165
+            [ad] => TURİZM İŞLETMECİLİĞİ
+        )
+
+    [54] => Array
+        (
+            [id] => 715822
+            [ustid] => 5165
+            [ad] => TURİZM İŞLETMECİLİĞİ (MTOK)
+        )
+
+    [55] => Array
+        (
+            [id] => 7582
+            [ustid] => 4
+            [ad] => SEYAHAT İŞLETMECİLİĞİ VE TURİZM REHBERLİĞİ
+        )
+
+    [56] => Array
+        (
+            [id] => 716027
+            [ustid] => 7582
+            [ad] => SEYAHAT İŞLETMECİLİĞİ VE TURİZM REHBERLİĞİ
+        )
+
+    [57] => Array
+        (
+            [id] => 715917
+            [ustid] => 5165
+            [ad] => TURİZM İŞLETMECİLİĞİ (İÖ)
+        )
+
+    [58] => Array
+        (
+            [id] => 715918
+            [ustid] => 5165
+            [ad] => TURİZM İŞLETMECİLİĞİ (MTOK) (İÖ)
+        )
+
+    [59] => Array
+        (
+            [id] => 716043
+            [ustid] => 7582
+            [ad] => SEYAHAT İŞLETMECİLİĞİ VE TURİZM REHBERLİĞİ (İÖ)
+        )
+
+    [60] => Array
+        (
+            [id] => 5
+            [ustid] => 0
+            [ad] => MÜHENDİSLİK FAKÜLTESİ
+        )
+
+    [61] => Array
+        (
+            [id] => 7158
+            [ustid] => 5
+            [ad] => ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ
+        )
+
+    [62] => Array
+        (
+            [id] => 715701
+            [ustid] => 7158
+            [ad] => ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ
+        )
+
+    [63] => Array
+        (
+            [id] => 7240
+            [ustid] => 5
+            [ad] => İNŞAAT MÜHENDİSLİĞİ
+        )
+
+    [64] => Array
+        (
+            [id] => 715783
+            [ustid] => 7240
+            [ad] => İNŞAAT MÜHENDİSLİĞİ
+        )
+
+    [65] => Array
+        (
+            [id] => 7239
+            [ustid] => 5
+            [ad] => GIDA MÜHENDİSLİĞİ
+        )
+
+    [66] => Array
+        (
+            [id] => 715781
+            [ustid] => 7239
+            [ad] => GIDA MÜHENDİSLİĞİ
+        )
+
+    [67] => Array
+        (
+            [id] => 7579
+            [ustid] => 5
+            [ad] => MAKİNE MÜHENDİSLİĞİ
+        )
+
+    [68] => Array
+        (
+            [id] => 716025
+            [ustid] => 7579
+            [ad] => MAKİNE MÜHENDİSLİĞİ
+        )
+
+    [69] => Array
+        (
+            [id] => 7580
+            [ustid] => 5
+            [ad] => YAZILIM MÜHENDİSLİĞİ
+        )
+
+    [70] => Array
+        (
+            [id] => 716026
+            [ustid] => 7580
+            [ad] => YAZILIM MÜHENDİSLİĞİ
+        )
+
+    [71] => Array
+        (
+            [id] => 6
+            [ustid] => 0
+            [ad] => İLAHİYAT FAKÜLTESİ
+        )
+
+    [72] => Array
+        (
+            [id] => 7361
+            [ustid] => 6
+            [ad] => İLAHİYAT
+        )
+
+    [73] => Array
+        (
+            [id] => 715886
+            [ustid] => 7361
+            [ad] => İLAHİYAT
+        )
+
+    [74] => Array
+        (
+            [id] => 716141
+            [ustid] => 7361
+            [ad] => İLAHİYAT (% 30 ARAPÇA)
+        )
+
+    [75] => Array
+        (
+            [id] => 715962
+            [ustid] => 7361
+            [ad] => İLAHİYAT (İÖ)
+        )
+
+    [76] => Array
+        (
+            [id] => 716142
+            [ustid] => 7361
+            [ad] => İLAHİYAT (İÖ) (%30 ARAPÇA)
+        )
+
+    [77] => Array
+        (
+            [id] => 07
+            [ustid] => 0
+            [ad] => MİMARLIK FAKÜLTESİ
+        )
+
+    [78] => Array
+        (
+            [id] => 7389
+            [ustid] => 07
+            [ad] => MİMARLIK
+        )
+
+    [79] => Array
+        (
+            [id] => 715911
+            [ustid] => 7389
+            [ad] => MİMARLIK
+        )
+
+    [80] => Array
+        (
+            [id] => 7391
+            [ustid] => 07
+            [ad] => ŞEHİR VE BÖLGE PLANLAMA
+        )
+
+    [81] => Array
+        (
+            [id] => 715914
+            [ustid] => 7391
+            [ad] => ŞEHİR VE BÖLGE PLANLAMA
+        )
+
+    [82] => Array
+        (
+            [id] => 8
+            [ustid] => 0
+            [ad] => TEKNİK EĞİTİM FAKÜLTESİ
+        )
+
+    [83] => Array
+        (
+            [id] => 7520
+            [ustid] => 8
+            [ad] => YAPI EĞİTİMİ
+        )
+
+    [84] => Array
+        (
+            [id] => 80100
+            [ustid] => 7520
+            [ad] => YAPI ÖĞRETMENLİĞİ
+        )
+
+    [85] => Array
+        (
+            [id] => 80200
+            [ustid] => 7520
+            [ad] => YAPI RESSAMLIĞI ÖĞRETMENLİĞİ
+        )
+
+    [86] => Array
+        (
+            [id] => 9
+            [ustid] => 0
+            [ad] => HUKUK FAKÜLTESİ
+        )
+
+    [87] => Array
+        (
+            [id] => 7658
+            [ustid] => 9
+            [ad] => HUKUK
+        )
+
+    [88] => Array
+        (
+            [id] => 716081
+            [ustid] => 7658
+            [ad] => HUKUK
+        )
+
+    [89] => Array
+        (
+            [id] => 22
+            [ustid] => 0
+            [ad] => SAĞLIK YÜKSEKOKULU
+        )
+
+    [90] => Array
+        (
+            [id] => 2201
+            [ustid] => 22
+            [ad] => HEMŞİRELİK
+        )
+
+    [91] => Array
+        (
+            [id] => 220100
+            [ustid] => 2201
+            [ad] => HEMŞİRELİK
+        )
+
+    [92] => Array
+        (
+            [id] => 2202
+            [ustid] => 22
+            [ad] => SAĞLIK MEMURLUĞU
+        )
+
+    [93] => Array
+        (
+            [id] => 220200
+            [ustid] => 2202
+            [ad] => SAĞLIK MEMURLUĞU
+        )
+
+    [94] => Array
+        (
+            [id] => 2203
+            [ustid] => 22
+            [ad] => EBELİK
+        )
+
+    [95] => Array
+        (
+            [id] => 220300
+            [ustid] => 2203
+            [ad] => EBELİK
+        )
+
+    [96] => Array
+        (
+            [id] => 5226
+            [ustid] => 22
+            [ad] => ÇOCUK GELİŞİMİ
+        )
+
+    [97] => Array
+        (
+            [id] => 5307
+            [ustid] => 5226
+            [ad] => ÇOCUK GELİŞİMİ
+        )
+
+    [98] => Array
+        (
+            [id] => 5227
+            [ustid] => 22
+            [ad] => BESLENME VE DİYETETİK
+        )
+
+    [99] => Array
+        (
+            [id] => 5306
+            [ustid] => 5227
+            [ad] => BESLENME VE DİYETETİK
+        )
+
+    [100] => Array
+        (
+            [id] => 7258
+            [ustid] => 22
+            [ad] => SAĞLIK KURUMLARI İŞLETMECİLİĞİ
+        )
+
+    [101] => Array
+        (
+            [id] => 715801
+            [ustid] => 7258
+            [ad] => SAĞLIK KURUMLARI İŞLETMECİLİĞİ
+        )
+
+    [102] => Array
+        (
+            [id] => 7448
+            [ustid] => 22
+            [ad] => SAĞLIK YÖNETİMİ
+        )
+
+    [103] => Array
+        (
+            [id] => 715973
+            [ustid] => 7448
+            [ad] => SAĞLIK YÖNETİMİ
+        )
+
+    [104] => Array
+        (
+            [id] => 715743
+            [ustid] => 5226
+            [ad] => ÇOCUK GELİŞİMİ (İÖ)
+        )
+
+    [105] => Array
+        (
+            [id] => 715802
+            [ustid] => 7258
+            [ad] => SAĞLIK KURUMLARI İŞLETMECİLİĞİ (İÖ)
+        )
+
+    [106] => Array
+        (
+            [id] => 715974
+            [ustid] => 7448
+            [ad] => SAĞLIK YÖNETİMİ (İÖ)
+        )
+
+    [107] => Array
+        (
+            [id] => 24
+            [ustid] => 0
+            [ad] => UYGULAMALI BİLİMLER YÜKSEKOKULU
+        )
+
+    [108] => Array
+        (
+            [id] => 7578
+            [ustid] => 24
+            [ad] => BANKACILIK VE FİNANS
+        )
+
+    [109] => Array
+        (
+            [id] => 716021
+            [ustid] => 7578
+            [ad] => BANKACILIK VE FİNANS
+        )
+
+    [110] => Array
+        (
+            [id] => 7450
+            [ustid] => 24
+            [ad] => ULUSLARARASI TİCARET VE LOJİSTİK
+        )
+
+    [111] => Array
+        (
+            [id] => 715965
+            [ustid] => 7450
+            [ad] => ULUSLARARASI TİCARET VE LOJİSTİK
+        )
+
+    [112] => Array
+        (
+            [id] => 716023
+            [ustid] => 7578
+            [ad] => BANKACILIK VE FİNANS (İÖ)
+        )
+
+    [113] => Array
+        (
+            [id] => 715966
+            [ustid] => 7450
+            [ad] => ULUSLARARASI TİCARET VE LOJİSTİK (İÖ)
+        )
+
+    [114] => Array
+        (
+            [id] => 45
+            [ustid] => 0
+            [ad] => KIRKLARELİ MESLEK YÜKSEKOKULU
+        )
+
+    [115] => Array
+        (
+            [id] => 4501
+            [ustid] => 45
+            [ad] => İNŞAAT
+        )
+
+    [116] => Array
+        (
+            [id] => 450100
+            [ustid] => 4501
+            [ad] => İNŞAAT
+        )
+
+    [117] => Array
+        (
+            [id] => 4502
+            [ustid] => 45
+            [ad] => İŞLETMECİLİK
+        )
+
+    [118] => Array
+        (
+            [id] => 450200
+            [ustid] => 4502
+            [ad] => İŞLETMECİLİK
+        )
+
+    [119] => Array
+        (
+            [id] => 4503
+            [ustid] => 45
+            [ad] => MUHASEBE
+        )
+
+    [120] => Array
+        (
+            [id] => 450300
+            [ustid] => 4503
+            [ad] => MUHASEBE
+        )
+
+    [121] => Array
+        (
+            [id] => 450301
+            [ustid] => 4503
+            [ad] => 01 MUHASEBE
+        )
+
+    [122] => Array
+        (
+            [id] => 4504
+            [ustid] => 45
+            [ad] => HALICILIK
+        )
+
+    [123] => Array
+        (
+            [id] => 450400
+            [ustid] => 4504
+            [ad] => HALICILIK
+        )
+
+    [124] => Array
+        (
+            [id] => 4505
+            [ustid] => 45
+            [ad] => SÜT VE ÜRÜNLERİ
+        )
+
+    [125] => Array
+        (
+            [id] => 450500
+            [ustid] => 4505
+            [ad] => SÜT VE ÜRÜNLERİ
+        )
+
+    [126] => Array
+        (
+            [id] => 4506
+            [ustid] => 45
+            [ad] => MADEN
+        )
+
+    [127] => Array
+        (
+            [id] => 450600
+            [ustid] => 4506
+            [ad] => MADEN
+        )
+
+    [128] => Array
+        (
+            [id] => 4507
+            [ustid] => 45
+            [ad] => HALICILIK VE DESİNATÖRLÜĞÜ
+        )
+
+    [129] => Array
+        (
+            [id] => 450700
+            [ustid] => 4507
+            [ad] => HALICILIK VE DESİNATÖRLÜĞÜ
+        )
+
+    [130] => Array
+        (
+            [id] => 4508
+            [ustid] => 45
+            [ad] => GIDA TEKNOLOJİSİ
+        )
+
+    [131] => Array
+        (
+            [id] => 450800
+            [ustid] => 4508
+            [ad] => GIDA TEKNOLOJİSİ
+        )
+
+    [132] => Array
+        (
+            [id] => 4509
+            [ustid] => 45
+            [ad] => İŞLETME
+        )
+
+    [133] => Array
+        (
+            [id] => 450901
+            [ustid] => 4509
+            [ad] => 01 YÖNETİM
+        )
+
+    [134] => Array
+        (
+            [id] => 450900
+            [ustid] => 4509
+            [ad] => İŞLETME
+        )
+
+    [135] => Array
+        (
+            [id] => 450902
+            [ustid] => 4509
+            [ad] => 02 FİNANSMAN
+        )
+
+    [136] => Array
+        (
+            [id] => 4581
+            [ustid] => 45
+            [ad] => BİLG.TEKN.VE PROG.(İÖ)
+        )
+
+    [137] => Array
+        (
+            [id] => 458100
+            [ustid] => 4581
+            [ad] => BİLG.TEKN.VE PROG. (İÖ)
+        )
+
+    [138] => Array
+        (
+            [id] => 4582
+            [ustid] => 45
+            [ad] => ELEKTRİK(İÖ)
+        )
+
+    [139] => Array
+        (
+            [id] => 458200
+            [ustid] => 4582
+            [ad] => ELEKTRİK(İÖ)
+        )
+
+    [140] => Array
+        (
+            [id] => 458201
+            [ustid] => 4582
+            [ad] => 01 FABRİKA BAKIM VE İMALAT (İÖ)
+        )
+
+    [141] => Array
+        (
+            [id] => 458202
+            [ustid] => 4582
+            [ad] => 02 İLETİM DAĞITIM VE TESİSAT (İÖ)
+        )
+
+    [142] => Array
+        (
+            [id] => 4583
+            [ustid] => 45
+            [ad] => ENDÜSTRİYEL ELEKTRONİK(İÖ)
+        )
+
+    [143] => Array
+        (
+            [id] => 458300
+            [ustid] => 4583
+            [ad] => ENDÜSTRİYEL ELEKTRONİK(İÖ)
+        )
+
+    [144] => Array
+        (
+            [id] => 4584
+            [ustid] => 45
+            [ad] => TEKSTİL(İÖ) (Haz.Giy)
+        )
+
+    [145] => Array
+        (
+            [id] => 458400
+            [ustid] => 4584
+            [ad] => TEKSTİL(İÖ) (Haz.Giy)
+        )
+
+    [146] => Array
+        (
+            [id] => 458403
+            [ustid] => 4584
+            [ad] => 03 ÖRME (İÖ)
+        )
+
+    [147] => Array
+        (
+            [id] => 458401
+            [ustid] => 4584
+            [ad] => 01 DOKUMA (İÖ)
+        )
+
+    [148] => Array
+        (
+            [id] => 458407
+            [ustid] => 4584
+            [ad] => 07 KALİTE KONTROL (İÖ)
+        )
+
+    [149] => Array
+        (
+            [id] => 458406
+            [ustid] => 4584
+            [ad] => 06 TEKSTİL TERBİYESİ (İÖ)
+        )
+
+    [150] => Array
+        (
+            [id] => 458405
+            [ustid] => 4584
+            [ad] => 05 KONFEKSİYON (İÖ)
+        )
+
+    [151] => Array
+        (
+            [id] => 458402
+            [ustid] => 4584
+            [ad] => 02 İPLİKÇİLİK (İÖ)
+        )
+
+    [152] => Array
+        (
+            [id] => 458404
+            [ustid] => 4584
+            [ad] => 04 TRİKOTAJ (İÖ)
+        )
+
+    [153] => Array
+        (
+            [id] => 4585
+            [ustid] => 45
+            [ad] => MAKİNE (İÖ) (Kay.Tek.)
+        )
+
+    [154] => Array
+        (
+            [id] => 458500
+            [ustid] => 4585
+            [ad] => MAKİNE (İÖ) (Kay.Tek.)
+        )
+
+    [155] => Array
+        (
+            [id] => 458501
+            [ustid] => 4585
+            [ad] => 01 ÜRETİM (İÖ)
+        )
+
+    [156] => Array
+        (
+            [id] => 458503
+            [ustid] => 4585
+            [ad] => 03 TALAŞSIZ ŞEKİLLENDİRME VE KAYNAK TEKNOLOJİLERİ (İÖ)
+        )
+
+    [157] => Array
+        (
+            [id] => 458504
+            [ustid] => 4585
+            [ad] => 04 FABRİKA BAKIM
+        )
+
+    [158] => Array
+        (
+            [id] => 458502
+            [ustid] => 4585
+            [ad] => 02 BİLGİSAYARLI TASARIM VE ÜRETİM (İÖ)
+        )
+
+    [159] => Array
+        (
+            [id] => 4586
+            [ustid] => 45
+            [ad] => MAKİNE(İÖ)
+        )
+
+    [160] => Array
+        (
+            [id] => 458602
+            [ustid] => 4586
+            [ad] => 02 BİLGİSAYARLI TASARIM VE ÜRETİM (İÖ)
+        )
+
+    [161] => Array
+        (
+            [id] => 458600
+            [ustid] => 4586
+            [ad] => MAKİNE(İÖ)
+        )
+
+    [162] => Array
+        (
+            [id] => 458601
+            [ustid] => 4586
+            [ad] => 01 ÜRETİM (İÖ)
+        )
+
+    [163] => Array
+        (
+            [id] => 458604
+            [ustid] => 4586
+            [ad] => 04 FABRİKA BAKIM (İÖ)
+        )
+
+    [164] => Array
+        (
+            [id] => 458603
+            [ustid] => 4586
+            [ad] => 03 TALAŞSIZ ŞEKİLLENDİRME VE KAYNAK TEKNOLOJİLERİ (İÖ)
+        )
+
+    [165] => Array
+        (
+            [id] => 4587
+            [ustid] => 45
+            [ad] => MOBİLYA VE DEK.(İÖ)
+        )
+
+    [166] => Array
+        (
+            [id] => 458700
+            [ustid] => 4587
+            [ad] => MOBİLYA VE DEK.(İÖ)
+        )
+
+    [167] => Array
+        (
+            [id] => 53
+            [ustid] => 0
+            [ad] => SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU
+        )
+
+    [168] => Array
+        (
+            [id] => 7502
+            [ustid] => 53
+            [ad] => ÇOCUK BAKIMI VE GENÇLİK HİZMETLERİ
+        )
+
+    [169] => Array
+        (
+            [id] => 530100
+            [ustid] => 7502
+            [ad] => SAĞLIK TEKNİKERLİĞİ
+        )
+
+    [170] => Array
+        (
+            [id] => 530200
+            [ustid] => 7502
+            [ad] => HEMŞİRELİK-A
+        )
+
+    [171] => Array
+        (
+            [id] => 7500
+            [ustid] => 53
+            [ad] => TIBBİ HİZMETLER VE TEKNİKLER
+        )
+
+    [172] => Array
+        (
+            [id] => 530300
+            [ustid] => 7500
+            [ad] => TIBBİ LABORATUVAR TEKNİKLERİ
+        )
+
+    [173] => Array
+        (
+            [id] => 7499
+            [ustid] => 53
+            [ad] => SAĞLIK BAKIM HİZMETLERİ
+        )
+
+    [174] => Array
+        (
+            [id] => 530400
+            [ustid] => 7499
+            [ad] => YAŞLI BAKIMI
+        )
+
+    [175] => Array
+        (
+            [id] => 530500
+            [ustid] => 7502
+            [ad] => ÇOCUK GELİŞİMİ
+        )
+
+    [176] => Array
+        (
+            [id] => 7501
+            [ustid] => 53
+            [ad] => YÖNETİM VE ORGANİZASYON
+        )
+
+    [177] => Array
+        (
+            [id] => 530600
+            [ustid] => 7501
+            [ad] => SAĞLIK KURUMLARI İŞLETMECİLİĞİ
+        )
+
+    [178] => Array
+        (
+            [id] => 530700
+            [ustid] => 7500
+            [ad] => TIBBİ DOKÜMANTASYON VE SEKRETERLİK
+        )
+
+    [179] => Array
+        (
+            [id] => 530800
+            [ustid] => 7500
+            [ad] => TIBBİ TANITIM VE PAZARLAMA
+        )
+
+    [180] => Array
+        (
+            [id] => 715887
+            [ustid] => 7500
+            [ad] => OPTİSYENLİK
+        )
+
+    [181] => Array
+        (
+            [id] => 535300
+            [ustid] => 7500
+            [ad] => TIBBİ LABORATUVAR TEKNİKLERİ (İÖ)
+        )
+
+    [182] => Array
+        (
+            [id] => 535400
+            [ustid] => 7499
+            [ad] => YAŞLI BAKIMI (İÖ)
+        )
+
+    [183] => Array
+        (
+            [id] => 715744
+            [ustid] => 7502
+            [ad] => ÇOCUK GELİŞİMİ (İÖ)
+        )
+
+    [184] => Array
+        (
+            [id] => 715888
+            [ustid] => 7501
+            [ad] => SAĞLIK KURUMLARI İŞLETMECİLİĞİ (İÖ)
+        )
+
+    [185] => Array
+        (
+            [id] => 715804
+            [ustid] => 7500
+            [ad] => TIBBİ DOKÜMANTASYON VE SEKRETERLİK (İÖ)
+        )
+
+    [186] => Array
+        (
+            [id] => 715803
+            [ustid] => 7500
+            [ad] => TIBBİ TANITIM VE PAZARLAMA (İÖ)
+        )
+
+    [187] => Array
+        (
+            [id] => 539900
+            [ustid] => 7502
+            [ad] => HEMŞİRELİK-B
+        )
+
+    [188] => Array
+        (
+            [id] => 56
+            [ustid] => 0
+            [ad] => LÜLEBURGAZ MESLEK YÜKSEKOKULU
+        )
+
+    [189] => Array
+        (
+            [id] => 7486
+            [ustid] => 56
+            [ad] => TEKNİK PROGRAMLAR
+        )
+
+    [190] => Array
+        (
+            [id] => 560100
+            [ustid] => 7486
+            [ad] => KİMYA
+        )
+
+    [191] => Array
+        (
+            [id] => 7478
+            [ustid] => 56
+            [ad] => ELEKTRİK VE ENERJİ
+        )
+
+    [192] => Array
+        (
+            [id] => 560200
+            [ustid] => 7478
+            [ad] => ELEKTRİK
+        )
+
+    [193] => Array
+        (
+            [id] => 560201
+            [ustid] => 7486
+            [ad] => 01 FAB.BAK. VE İM.
+        )
+
+    [194] => Array
+        (
+            [id] => 560202
+            [ustid] => 7486
+            [ad] => 02 İLET. DAĞIT VE TESİSAT
+        )
+
+    [195] => Array
+        (
+            [id] => 7489
+            [ustid] => 56
+            [ad] => İKTİSADİ VE İDARİ PROGRAMLAR
+        )
+
+    [196] => Array
+        (
+            [id] => 560302
+            [ustid] => 7489
+            [ad] => 02 REKLAMCILIK
+        )
+
+    [197] => Array
+        (
+            [id] => 7484
+            [ustid] => 56
+            [ad] => PAZARLAMA VE REKLAMCILIK
+        )
+
+    [198] => Array
+        (
+            [id] => 560300
+            [ustid] => 7484
+            [ad] => PAZARLAMA
+        )
+
+    [199] => Array
+        (
+            [id] => 560301
+            [ustid] => 7489
+            [ad] => 01 SATIŞ YÖNETİMİ
+        )
+
+    [200] => Array
+        (
+            [id] => 7466
+            [ustid] => 56
+            [ad] => BÜRO HİZMETLERİ VE SEKRETERLİK
+        )
+
+    [201] => Array
+        (
+            [id] => 560400
+            [ustid] => 7466
+            [ad] => BÜRO YÖNETİMİ VE SEKRETERLİK
+        )
+
+    [202] => Array
+        (
+            [id] => 560505
+            [ustid] => 7486
+            [ad] => 05 KONFEKSİYON
+        )
+
+    [203] => Array
+        (
+            [id] => 560506
+            [ustid] => 7486
+            [ad] => 06 TEKSTİL TERBİYESİ
+        )
+
+    [204] => Array
+        (
+            [id] => 560507
+            [ustid] => 7486
+            [ad] => 07 KALİTE KONTROL
+        )
+
+    [205] => Array
+        (
+            [id] => 560504
+            [ustid] => 7486
+            [ad] => 04 TRİKOTAJ
+        )
+
+    [206] => Array
+        (
+            [id] => 560500
+            [ustid] => 7486
+            [ad] => TEKSTİL
+        )
+
+    [207] => Array
+        (
+            [id] => 560501
+            [ustid] => 7486
+            [ad] => 01 DOKUMA
+        )
+
+    [208] => Array
+        (
+            [id] => 560502
+            [ustid] => 7486
+            [ad] => 02 İPLİKÇİLİK
+        )
+
+    [209] => Array
+        (
+            [id] => 560503
+            [ustid] => 7486
+            [ad] => 03 ÖRME
+        )
+
+    [210] => Array
+        (
+            [id] => 560600
+            [ustid] => 7489
+            [ad] => BİLGİSAYARLI MUH.VE VERGİ UYG.
+        )
+
+    [211] => Array
+        (
+            [id] => 560700
+            [ustid] => 7489
+            [ad] => MUHASEBE
+        )
+
+    [212] => Array
+        (
+            [id] => 560701
+            [ustid] => 7489
+            [ad] => 01 MUHASEBE
+        )
+
+    [213] => Array
+        (
+            [id] => 560800
+            [ustid] => 7486
+            [ad] => BİLGİSAYAR TEKNOLOJİSİ VE PROGRAMLAMA
+        )
+
+    [214] => Array
+        (
+            [id] => 560900
+            [ustid] => 7486
+            [ad] => GRAFİK
+        )
+
+    [215] => Array
+        (
+            [id] => 7480
+            [ustid] => 56
+            [ad] => KİMYA VE KİMYASAL İŞLEME TEKNOLOJİLERİ
+        )
+
+    [216] => Array
+        (
+            [id] => 561000
+            [ustid] => 7480
+            [ad] => KİMYA TEKNOLOJİSİ
+        )
+
+    [217] => Array
+        (
+            [id] => 7487
+            [ustid] => 56
+            [ad] => TEKSTİL, GİYİM, AYAKKABI VE DERİ
+        )
+
+    [218] => Array
+        (
+            [id] => 561100
+            [ustid] => 7487
+            [ad] => TEKSTİL TEKNOLOJİSİ
+        )
+
+    [219] => Array
+        (
+            [id] => 7482
+            [ustid] => 56
+            [ad] => MUHASEBE VE VERGİ
+        )
+
+    [220] => Array
+        (
+            [id] => 561200
+            [ustid] => 7482
+            [ad] => MUHASEBE VE VERGİ UYGULAMALARI
+        )
+
+    [221] => Array
+        (
+            [id] => 7467
+            [ustid] => 56
+            [ad] => BİLGİSAYAR TEKNOLOJİLERİ
+        )
+
+    [222] => Array
+        (
+            [id] => 561300
+            [ustid] => 7467
+            [ad] => BİLGİSAYAR PROGRAMCILIĞI
+        )
+
+    [223] => Array
+        (
+            [id] => 7485
+            [ustid] => 56
+            [ad] => TASARIM
+        )
+
+    [224] => Array
+        (
+            [id] => 561400
+            [ustid] => 7485
+            [ad] => GRAFİK TASARIMI
+        )
+
+    [225] => Array
+        (
+            [id] => 561500
+            [ustid] => 7466
+            [ad] => BÜRO YÖNETİMİ VE YÖNETİCİ ASİSTANLIĞI
+        )
+
+    [226] => Array
+        (
+            [id] => 7488
+            [ustid] => 56
+            [ad] => YÖNETİM VE ORGANİZASYON
+        )
+
+    [227] => Array
+        (
+            [id] => 715762
+            [ustid] => 7488
+            [ad] => İNSAN KAYNAKLARI YÖNETİMİ 
+        )
+
+    [228] => Array
+        (
+            [id] => 7481
+            [ustid] => 56
+            [ad] => MOTORLU ARAÇLAR VE ULAŞTIRMA TEKNOLOJİLERİ
+        )
+
+    [229] => Array
+        (
+            [id] => 5308
+            [ustid] => 7481
+            [ad] => OTOMOTİV TEKNOLOJİSİ
+        )
+
+    [230] => Array
+        (
+            [id] => 7479
+            [ustid] => 56
+            [ad] => HUKUK
+        )
+
+    [231] => Array
+        (
+            [id] => 715905
+            [ustid] => 7479
+            [ad] => SOSYAL GÜVENLİK
+        )
+
+    [232] => Array
+        (
+            [id] => 7483
+            [ustid] => 56
+            [ad] => MÜLKİYET KORUMA VE GÜVENLİK
+        )
+
+    [233] => Array
+        (
+            [id] => 715909
+            [ustid] => 7483
+            [ad] => İŞ SAĞLIĞI VE GÜVENLİĞİ
+        )
+
+    [234] => Array
+        (
+            [id] => 565100
+            [ustid] => 7486
+            [ad] => KİMYA (İÖ)
+        )
+
+    [235] => Array
+        (
+            [id] => 565202
+            [ustid] => 7486
+            [ad] => 02 İLET.DAĞ. (İÖ)
+        )
+
+    [236] => Array
+        (
+            [id] => 565201
+            [ustid] => 7486
+            [ad] => 01 FAB.BA.V. İM. (İÖ)
+        )
+
+    [237] => Array
+        (
+            [id] => 565200
+            [ustid] => 7478
+            [ad] => ELEKTRİK (İÖ)
+        )
+
+    [238] => Array
+        (
+            [id] => 565300
+            [ustid] => 7484
+            [ad] => PAZARLAMA (İÖ)
+        )
+
+    [239] => Array
+        (
+            [id] => 565400
+            [ustid] => 7466
+            [ad] => BÜRO YÖNETİMİ VE SEKRETERLİK (İÖ)
+        )
+
+    [240] => Array
+        (
+            [id] => 565506
+            [ustid] => 7486
+            [ad] => 06TEKSTİLTER (İÖ)
+        )
+
+    [241] => Array
+        (
+            [id] => 565507
+            [ustid] => 7486
+            [ad] => 07 KAL. KONT (İÖ)
+        )
+
+    [242] => Array
+        (
+            [id] => 565505
+            [ustid] => 7486
+            [ad] => 05KONFEKSİYON (İÖ)
+        )
+
+    [243] => Array
+        (
+            [id] => 565500
+            [ustid] => 7486
+            [ad] => TEKSTİL (İÖ)
+        )
+
+    [244] => Array
+        (
+            [id] => 565501
+            [ustid] => 7486
+            [ad] => 01DOKUMA (İÖ)
+        )
+
+    [245] => Array
+        (
+            [id] => 565502
+            [ustid] => 7486
+            [ad] => 02İPLİKÇİLİK (İÖ)
+        )
+
+    [246] => Array
+        (
+            [id] => 565503
+            [ustid] => 7486
+            [ad] => 03ÖRME (İÖ)
+        )
+
+    [247] => Array
+        (
+            [id] => 565504
+            [ustid] => 7486
+            [ad] => 04TRİKOTAJ (İÖ)
+        )
+
+    [248] => Array
+        (
+            [id] => 565701
+            [ustid] => 7489
+            [ad] => 01 MUHASEBE
+        )
+
+    [249] => Array
+        (
+            [id] => 565700
+            [ustid] => 7489
+            [ad] => MUHASEBE (İÖ)
+        )
+
+    [250] => Array
+        (
+            [id] => 565800
+            [ustid] => 7486
+            [ad] => BİLGİSAYAR TEKNOLOJİSİ VE PROGRAMLAMA (İÖ)
+        )
+
+    [251] => Array
+        (
+            [id] => 565900
+            [ustid] => 7486
+            [ad] => GRAFİK (İÖ)
+        )
+
+    [252] => Array
+        (
+            [id] => 566000
+            [ustid] => 7480
+            [ad] => KİMYA TEKNOLOJİSİ (İÖ)
+        )
+
+    [253] => Array
+        (
+            [id] => 565600
+            [ustid] => 7487
+            [ad] => TEKSTİL TEKNOLOJİSİ (İÖ)
+        )
+
+    [254] => Array
+        (
+            [id] => 566500
+            [ustid] => 7482
+            [ad] => MUHASEBE VE VERGİ UYGULAMALARI (İÖ)
+        )
+
+    [255] => Array
+        (
+            [id] => 566600
+            [ustid] => 7467
+            [ad] => BİLGİSAYAR PROGRAMCILIĞI (İÖ)
+        )
+
+    [256] => Array
+        (
+            [id] => 566700
+            [ustid] => 7485
+            [ad] => GRAFİK TASARIMI (İÖ)
+        )
+
+    [257] => Array
+        (
+            [id] => 566900
+            [ustid] => 7466
+            [ad] => BÜRO YÖNETİMİ VE YÖNETİCİ ASİSTANLIĞI (İÖ)
+        )
+
+    [258] => Array
+        (
+            [id] => 715805
+            [ustid] => 7488
+            [ad] => İNSAN KAYNAKLARI YÖNETİMİ (İÖ)
+        )
+
+    [259] => Array
+        (
+            [id] => 566800
+            [ustid] => 7481
+            [ad] => OTOMOTİV TEKNOLOJİSİ (İÖ)
+        )
+
+    [260] => Array
+        (
+            [id] => 715906
+            [ustid] => 7479
+            [ad] => SOSYAL GÜVENLİK (İÖ)
+        )
+
+    [261] => Array
+        (
+            [id] => 715910
+            [ustid] => 7483
+            [ad] => İŞ SAĞLIĞI VE GÜVENLİĞİ (İÖ)
+        )
+
+    [262] => Array
+        (
+            [id] => 568100
+            [ustid] => 7486
+            [ad] => BİLG.TEKN.VE PROG. (İÖ)
+        )
+
+    [263] => Array
+        (
+            [id] => 568200
+            [ustid] => 7486
+            [ad] => GRAFİK (İÖ)
+        )
+
+    [264] => Array
+        (
+            [id] => 568302
+            [ustid] => 7486
+            [ad] => 02 SATIŞ SONRASI (İÖ)
+        )
+
+    [265] => Array
+        (
+            [id] => 568301
+            [ustid] => 7486
+            [ad] => 01 ÜRETİM (İÖ)
+        )
+
+    [266] => Array
+        (
+            [id] => 568300
+            [ustid] => 7486
+            [ad] => OTOMOTİV (İÖ)
+        )
+
+    [267] => Array
+        (
+            [id] => 568400
+            [ustid] => 7486
+            [ad] => TEKSTİL (İÖ)
+        )
+
+    [268] => Array
+        (
+            [id] => 568406
+            [ustid] => 7486
+            [ad] => 06 TEKSTİL TERBİYESİ (İÖ)
+        )
+
+    [269] => Array
+        (
+            [id] => 568401
+            [ustid] => 7486
+            [ad] => 01 DOKUMA (İÖ)
+        )
+
+    [270] => Array
+        (
+            [id] => 568405
+            [ustid] => 7486
+            [ad] => 05 KONFEKSİYON (İÖ)
+        )
+
+    [271] => Array
+        (
+            [id] => 568404
+            [ustid] => 7486
+            [ad] => 04 TRİKOTAJ (İÖ)
+        )
+
+    [272] => Array
+        (
+            [id] => 568407
+            [ustid] => 7486
+            [ad] => 07 KALİTE KONTROL (İÖ)
+        )
+
+    [273] => Array
+        (
+            [id] => 568402
+            [ustid] => 7486
+            [ad] => 02 İPLİKÇİLİK (İÖ)
+        )
+
+    [274] => Array
+        (
+            [id] => 568403
+            [ustid] => 7486
+            [ad] => 03 ÖRME (İÖ)
+        )
+
+    [275] => Array
+        (
+            [id] => 58
+            [ustid] => 0
+            [ad] => BABAESKİ MESLEK YÜKSEKOKULU
+        )
+
+    [276] => Array
+        (
+            [id] => 7463
+            [ustid] => 58
+            [ad] => TEKNİK PROGRAMLAR
+        )
+
+    [277] => Array
+        (
+            [id] => 580100
+            [ustid] => 7463
+            [ad] => BİLGİSAYAR PROG.
+        )
+
+    [278] => Array
+        (
+            [id] => 7464
+            [ustid] => 58
+            [ad] => YÖNETİM VE ORGANİZASYON
+        )
+
+    [279] => Array
+        (
+            [id] => 715881
+            [ustid] => 7464
+            [ad] => YEREL YÖNETİMLER
+        )
+
+    [280] => Array
+        (
+            [id] => 7459
+            [ustid] => 58
+            [ad] => BÜRO HİZMETLERİ VE SEKRETERLİK
+        )
+
+    [281] => Array
+        (
+            [id] => 580200
+            [ustid] => 7459
+            [ad] => BÜRO YÖNETİMİ VE SEKRETERLİK
+        )
+
+    [282] => Array
+        (
+            [id] => 7465
+            [ustid] => 58
+            [ad] => İKTİSADİ VE İDARİ PROGRAMLAR
+        )
+
+    [283] => Array
+        (
+            [id] => 580300
+            [ustid] => 7465
+            [ad] => İŞLETMECİLİK
+        )
+
+    [284] => Array
+        (
+            [id] => 580402
+            [ustid] => 7465
+            [ad] => 02 FİNANSMAN
+        )
+
+    [285] => Array
+        (
+            [id] => 580401
+            [ustid] => 7465
+            [ad] => 01 YÖNETİM
+        )
+
+    [286] => Array
+        (
+            [id] => 580400
+            [ustid] => 7465
+            [ad] => İŞLETME
+        )
+
+    [287] => Array
+        (
+            [id] => 580500
+            [ustid] => 7464
+            [ad] => İŞLETME YÖNETİMİ
+        )
+
+    [288] => Array
+        (
+            [id] => 7462
+            [ustid] => 58
+            [ad] => FİNANS-BANKACILIK VE SİGORTACILIK
+        )
+
+    [289] => Array
+        (
+            [id] => 580600
+            [ustid] => 7462
+            [ad] => BANKACILIK VE SİGORTACILIK
+        )
+
+    [290] => Array
+        (
+            [id] => 7461
+            [ustid] => 58
+            [ad] => DIŞ TİCARET
+        )
+
+    [291] => Array
+        (
+            [id] => 580700
+            [ustid] => 7461
+            [ad] => DIŞ TİCARET
+        )
+
+    [292] => Array
+        (
+            [id] => 580800
+            [ustid] => 7459
+            [ad] => BÜRO YÖNETİMİ VE YÖNETİCİ ASİSTANLIĞI
+        )
+
+    [293] => Array
+        (
+            [id] => 715967
+            [ustid] => 7459
+            [ad] => ÇAĞRI MERKEZİ HİZMETLERİ
+        )
+
+    [294] => Array
+        (
+            [id] => 715882
+            [ustid] => 7464
+            [ad] => YEREL YÖNETİMLER (İÖ)
+        )
+
+    [295] => Array
+        (
+            [id] => 585400
+            [ustid] => 7459
+            [ad] => BÜRO YÖNETİMİ VE SEKRETERLİK (İÖ)
+        )
+
+    [296] => Array
+        (
+            [id] => 585200
+            [ustid] => 7459
+            [ad] => BÜRO YÖN. VE SEK. (İÖ)
+        )
+
+    [297] => Array
+        (
+            [id] => 585500
+            [ustid] => 7464
+            [ad] => İŞLETME YÖNETİMİ (İÖ)
+        )
+
+    [298] => Array
+        (
+            [id] => 585100
+            [ustid] => 7462
+            [ad] => BANKACILIK VE SİGORTACILIK (İÖ)
+        )
+
+    [299] => Array
+        (
+            [id] => 585300
+            [ustid] => 7461
+            [ad] => DIŞ TİCARET (İÖ)
+        )
+
+    [300] => Array
+        (
+            [id] => 585600
+            [ustid] => 7459
+            [ad] => BÜRO YÖNETİMİ VE YÖNETİCİ ASİSTANLIĞI (İÖ)
+        )
+
+    [301] => Array
+        (
+            [id] => 715968
+            [ustid] => 7459
+            [ad] => ÇAĞRI MERKEZİ HİZMETLERİ (İÖ)
+        )
+
+    [302] => Array
+        (
+            [id] => 65
+            [ustid] => 0
+            [ad] => VİZE MESLEK YÜKSEKOKULU
+        )
+
+    [303] => Array
+        (
+            [id] => 7544
+            [ustid] => 65
+            [ad] => İKTİSADİ VE İDARİ PROGRAMLAR
+        )
+
+    [304] => Array
+        (
+            [id] => 650100
+            [ustid] => 7544
+            [ad] => MUHASEBE
+        )
+
+    [305] => Array
+        (
+            [id] => 650101
+            [ustid] => 7544
+            [ad] => 01 MUHASEBE
+        )
+
+    [306] => Array
+        (
+            [id] => 650201
+            [ustid] => 7544
+            [ad] => 01 SATIŞ YÖNETİMİ
+        )
+
+    [307] => Array
+        (
+            [id] => 7541
+            [ustid] => 65
+            [ad] => PAZARLAMA VE REKLAMCILIK
+        )
+
+    [308] => Array
+        (
+            [id] => 650200
+            [ustid] => 7541
+            [ad] => PAZARLAMA
+        )
+
+    [309] => Array
+        (
+            [id] => 650202
+            [ustid] => 7544
+            [ad] => 02 REKLAMCILIK
+        )
+
+    [310] => Array
+        (
+            [id] => 7542
+            [ustid] => 65
+            [ad] => TOPTAN VE PERAKENDE SATIŞ
+        )
+
+    [311] => Array
+        (
+            [id] => 650300
+            [ustid] => 7542
+            [ad] => EMLAK VE EMLAK YÖNETİMİ
+        )
+
+    [312] => Array
+        (
+            [id] => 7539
+            [ustid] => 65
+            [ad] => MUHASEBE VE VERGİ
+        )
+
+    [313] => Array
+        (
+            [id] => 650400
+            [ustid] => 7539
+            [ad] => MUHASEBE VE VERGİ UYGULAMALARI
+        )
+
+    [314] => Array
+        (
+            [id] => 7538
+            [ustid] => 65
+            [ad] => FİNANS-BANKACILIK VE SİGORTACILIK
+        )
+
+    [315] => Array
+        (
+            [id] => 650500
+            [ustid] => 7538
+            [ad] => BANKACILIK VE SİGORTACILIK
+        )
+
+    [316] => Array
+        (
+            [id] => 7543
+            [ustid] => 65
+            [ad] => YÖNETİM VE ORGANİZASYON
+        )
+
+    [317] => Array
+        (
+            [id] => 650600
+            [ustid] => 7543
+            [ad] => İŞLETME YÖNETİMİ
+        )
+
+    [318] => Array
+        (
+            [id] => 7521
+            [ustid] => 65
+            [ad] => DIŞ TİCARET
+        )
+
+    [319] => Array
+        (
+            [id] => 715806
+            [ustid] => 7521
+            [ad] => DIŞ TİCARET
+        )
+
+    [320] => Array
+        (
+            [id] => 715808
+            [ustid] => 7538
+            [ad] => MALİYE
+        )
+
+    [321] => Array
+        (
+            [id] => 7540
+            [ustid] => 65
+            [ad] => MÜLKİYET KORUMA VE GÜVENLİK
+        )
+
+    [322] => Array
+        (
+            [id] => 715889
+            [ustid] => 7540
+            [ad] => İŞ SAĞLIĞI VE GÜVENLİĞİ
+        )
+
+    [323] => Array
+        (
+            [id] => 715971
+            [ustid] => 7543
+            [ad] => LOJİSTİK
+        )
+
+    [324] => Array
+        (
+            [id] => 7618
+            [ustid] => 65
+            [ad] => SOSYAL HİZMET VE DANIŞMANLIK
+        )
+
+    [325] => Array
+        (
+            [id] => 716041
+            [ustid] => 7618
+            [ad] => SOSYAL HİZMETLER
+        )
+
+    [326] => Array
+        (
+            [id] => 655200
+            [ustid] => 7541
+            [ad] => PAZARLAMA (İÖ)
+        )
+
+    [327] => Array
+        (
+            [id] => 655300
+            [ustid] => 7542
+            [ad] => EMLAK VE EMLAK YÖNETİMİ (İÖ)
+        )
+
+    [328] => Array
+        (
+            [id] => 655100
+            [ustid] => 7539
+            [ad] => MUHASEBE VE VERGİ UYGULAMALARI (İÖ)
+        )
+
+    [329] => Array
+        (
+            [id] => 655500
+            [ustid] => 7538
+            [ad] => BANKACILIK VE SİGORTACILIK (İÖ)
+        )
+
+    [330] => Array
+        (
+            [id] => 655600
+            [ustid] => 7543
+            [ad] => İŞLETME YÖNETİMİ (İÖ)
+        )
+
+    [331] => Array
+        (
+            [id] => 715807
+            [ustid] => 7521
+            [ad] => DIŞ TİCARET (İÖ)
+        )
+
+    [332] => Array
+        (
+            [id] => 715809
+            [ustid] => 7538
+            [ad] => MALİYE (İÖ)
+        )
+
+    [333] => Array
+        (
+            [id] => 715890
+            [ustid] => 7540
+            [ad] => İŞ SAĞLIĞI VE GÜVENLİĞİ (İÖ)
+        )
+
+    [334] => Array
+        (
+            [id] => 715972
+            [ustid] => 7543
+            [ad] => LOJİSTİK (İÖ)
+        )
+
+    [335] => Array
+        (
+            [id] => 716042
+            [ustid] => 7618
+            [ad] => SOSYAL HİZMETLER (İÖ)
+        )
+
+    [336] => Array
+        (
+            [id] => 67
+            [ustid] => 0
+            [ad] => PINARHİSAR MESLEK YÜKSEKOKULU
+        )
+
+    [337] => Array
+        (
+            [id] => 7496
+            [ustid] => 67
+            [ad] => TEKNİK PROGRAMLAR
+        )
+
+    [338] => Array
+        (
+            [id] => 670100
+            [ustid] => 7496
+            [ad] => BİLG.TEKN.VE PROG.
+        )
+
+    [339] => Array
+        (
+            [id] => 7494
+            [ustid] => 67
+            [ad] => PAZARLAMA VE REKLAMCILIK
+        )
+
+    [340] => Array
+        (
+            [id] => 716024
+            [ustid] => 7494
+            [ad] => MEDYA VE İLETİŞİM
+        )
+
+    [341] => Array
+        (
+            [id] => 7493
+            [ustid] => 67
+            [ad] => OTEL, LOKANTA VE İKRAM HİZMETLERİ
+        )
+
+    [342] => Array
+        (
+            [id] => 716022
+            [ustid] => 7493
+            [ad] => AŞÇILIK
+        )
+
+    [343] => Array
+        (
+            [id] => 670201
+            [ustid] => 7496
+            [ad] => 01 FABRİKA BAKIM VE İMALAT
+        )
+
+    [344] => Array
+        (
+            [id] => 670202
+            [ustid] => 7496
+            [ad] => 02 İLETİM DAĞITIM VE TESİSAT
+        )
+
+    [345] => Array
+        (
+            [id] => 7492
+            [ustid] => 67
+            [ad] => ELEKTRİK VE ENERJİ
+        )
+
+    [346] => Array
+        (
+            [id] => 670200
+            [ustid] => 7492
+            [ad] => ELEKTRİK
+        )
+
+    [347] => Array
+        (
+            [id] => 7497
+            [ustid] => 67
+            [ad] => İKTİSADİ VE İDARİ PROGRAMLAR
+        )
+
+    [348] => Array
+        (
+            [id] => 670302
+            [ustid] => 7497
+            [ad] => 02 YİYECEK-İÇECEK VE MUTFAK
+        )
+
+    [349] => Array
+        (
+            [id] => 670300
+            [ustid] => 7493
+            [ad] => TURİZM VE OTEL İŞLETMECİLİĞİ
+        )
+
+    [350] => Array
+        (
+            [id] => 670301
+            [ustid] => 7497
+            [ad] => 01 ÖN BÜRO VE KAT HİZMETLERİ
+        )
+
+    [351] => Array
+        (
+            [id] => 670400
+            [ustid] => 7493
+            [ad] => AĞIRLAMA HİZMETLERİ
+        )
+
+    [352] => Array
+        (
+            [id] => 7490
+            [ustid] => 67
+            [ad] => BİLGİSAYAR KULLANIMI
+        )
+
+    [353] => Array
+        (
+            [id] => 670500
+            [ustid] => 7490
+            [ad] => BİLGİ YÖNETİMİ
+        )
+
+    [354] => Array
+        (
+            [id] => 7491
+            [ustid] => 67
+            [ad] => BİLGİSAYAR TEKNOLOJİLERİ
+        )
+
+    [355] => Array
+        (
+            [id] => 670600
+            [ustid] => 7491
+            [ad] => BİLGİSAYAR PROGRAMCILIĞI
+        )
+
+    [356] => Array
+        (
+            [id] => 670700
+            [ustid] => 7493
+            [ad] => İKRAM HİZMETLERİ
+        )
+
+    [357] => Array
+        (
+            [id] => 7495
+            [ustid] => 67
+            [ad] => SEYAHAT-TURİZM VE EĞLENCE HİZMETLERİ
+        )
+
+    [358] => Array
+        (
+            [id] => 670800
+            [ustid] => 7495
+            [ad] => TURİZM VE SEYAHAT HİZMETLERİ
+        )
+
+    [359] => Array
+        (
+            [id] => 715902
+            [ustid] => 7494
+            [ad] => HALKLA İLİŞKİLER VE TANITIM
+        )
+
+    [360] => Array
+        (
+            [id] => 7498
+            [ustid] => 67
+            [ad] => İNŞAAT
+        )
+
+    [361] => Array
+        (
+            [id] => 715904
+            [ustid] => 7498
+            [ad] => YAPI DENETİMİ
+        )
+
+    [362] => Array
+        (
+            [id] => 7581
+            [ustid] => 67
+            [ad] => ELEKTRONİK VE OTOMASYON 
+        )
+
+    [363] => Array
+        (
+            [id] => 716028
+            [ustid] => 7581
+            [ad] => KONTROL VE OTOMASYON TEKNOLOJİSİ
+        )
+
+    [364] => Array
+        (
+            [id] => 675200
+            [ustid] => 7492
+            [ad] => ELEKTRİK (İÖ)
+        )
+
+    [365] => Array
+        (
+            [id] => 715745
+            [ustid] => 7493
+            [ad] => TURİZM VE OTEL İŞLETMECİLİĞİ (İÖ)
+        )
+
+    [366] => Array
+        (
+            [id] => 675500
+            [ustid] => 7490
+            [ad] => BİLGİ YÖNETİMİ (İÖ)
+        )
+
+    [367] => Array
+        (
+            [id] => 675600
+            [ustid] => 7491
+            [ad] => BİLGİSAYAR PROGRAMCILIĞI (İÖ)
+        )
+
+    [368] => Array
+        (
+            [id] => 675800
+            [ustid] => 7495
+            [ad] => TURİZM VE SEYAHAT HİZMETLERİ (İÖ)
+        )
+
+    [369] => Array
+        (
+            [id] => 715903
+            [ustid] => 7494
+            [ad] => HALKLA İLİŞKİLER VE TANITIM (İÖ)
+        )
+
+    [370] => Array
+        (
+            [id] => 715981
+            [ustid] => 7498
+            [ad] => YAPI DENETİMİ (İÖ)
+        )
+
+    [371] => Array
+        (
+            [id] => 70
+            [ustid] => 0
+            [ad] => TEKNİK BİLİMLER MESLEK YÜKSEKOKULU
+        )
+
+    [372] => Array
+        (
+            [id] => 7517
+            [ustid] => 70
+            [ad] => TEKNİK PROGRAMLAR
+        )
+
+    [373] => Array
+        (
+            [id] => 700100
+            [ustid] => 7517
+            [ad] => İNŞAAT
+        )
+
+    [374] => Array
+        (
+            [id] => 700200
+            [ustid] => 7517
+            [ad] => HALICILIK
+        )
+
+    [375] => Array
+        (
+            [id] => 700300
+            [ustid] => 7517
+            [ad] => SÜT VE ÜRÜNLERİ
+        )
+
+    [376] => Array
+        (
+            [id] => 700400
+            [ustid] => 7517
+            [ad] => MADEN
+        )
+
+    [377] => Array
+        (
+            [id] => 700500
+            [ustid] => 7517
+            [ad] => HALICILIK VE DESİNATÖRLÜĞÜ
+        )
+
+    [378] => Array
+        (
+            [id] => 7514
+            [ustid] => 70
+            [ad] => GIDA İŞLEME
+        )
+
+    [379] => Array
+        (
+            [id] => 700600
+            [ustid] => 7514
+            [ad] => GIDA TEKNOLOJİSİ
+        )
+
+    [380] => Array
+        (
+            [id] => 7519
+            [ustid] => 70
+            [ad] => İNŞAAT
+        )
+
+    [381] => Array
+        (
+            [id] => 700700
+            [ustid] => 7519
+            [ad] => İNŞAAT TEKNOLOJİSİ
+        )
+
+    [382] => Array
+        (
+            [id] => 7510
+            [ustid] => 70
+            [ad] => BİLGİSAYAR TEKNOLOJİLERİ
+        )
+
+    [383] => Array
+        (
+            [id] => 700800
+            [ustid] => 7510
+            [ad] => BİLGİSAYAR PROGRAMCILIĞI
+        )
+
+    [384] => Array
+        (
+            [id] => 7512
+            [ustid] => 70
+            [ad] => ELEKTRONİK VE OTOMASYON
+        )
+
+    [385] => Array
+        (
+            [id] => 700900
+            [ustid] => 7512
+            [ad] => ELEKTRONİK TEKNOLOJİSİ
+        )
+
+    [386] => Array
+        (
+            [id] => 7511
+            [ustid] => 70
+            [ad] => EL SANATLARI
+        )
+
+    [387] => Array
+        (
+            [id] => 701000
+            [ustid] => 7511
+            [ad] => HALICILIK VE KİLİMCİLİK
+        )
+
+    [388] => Array
+        (
+            [id] => 7518
+            [ustid] => 70
+            [ad] => TEKSTİL, GİYİM, AYAKKABI VE DERİ
+        )
+
+    [389] => Array
+        (
+            [id] => 701100
+            [ustid] => 7518
+            [ad] => TEKSTİL TEKNOLOJİSİ
+        )
+
+    [390] => Array
+        (
+            [id] => 701200
+            [ustid] => 7512
+            [ad] => MEKATRONİK
+        )
+
+    [391] => Array
+        (
+            [id] => 7516
+            [ustid] => 70
+            [ad] => TASARIM
+        )
+
+    [392] => Array
+        (
+            [id] => 5296
+            [ustid] => 7516
+            [ad] => İÇ MEKAN TASARIMI
+        )
+
+    [393] => Array
+        (
+            [id] => 7513
+            [ustid] => 70
+            [ad] => ELEKTRİK VE ENERJİ
+        )
+
+    [394] => Array
+        (
+            [id] => 5310
+            [ustid] => 7513
+            [ad] => ELEKTRİK
+        )
+
+    [395] => Array
+        (
+            [id] => 7515
+            [ustid] => 70
+            [ad] => MAKİNE VE METAL TEKNOLOJİLERİ
+        )
+
+    [396] => Array
+        (
+            [id] => 5309
+            [ustid] => 7515
+            [ad] => MAKİNE
+        )
+
+    [397] => Array
+        (
+            [id] => 716101
+            [ustid] => 7516
+            [ad] => MODA TASARIMI
+        )
+
+    [398] => Array
+        (
+            [id] => 5311
+            [ustid] => 7518
+            [ad] => GİYİM ÜRETİM TEKNOLOJİSİ
+        )
+
+    [399] => Array
+        (
+            [id] => 709200
+            [ustid] => 7513
+            [ad] => ELEKTRİK (İÖ)
+        )
+
+    [400] => Array
+        (
+            [id] => 709600
+            [ustid] => 7515
+            [ad] => MAKİNE (İÖ)
+        )
+
+    [401] => Array
+        (
+            [id] => 715761
+            [ustid] => 7516
+            [ad] => İÇ MEKAN TASARIMI (İÖ)
+        )
+
+    [402] => Array
+        (
+            [id] => 705500
+            [ustid] => 7518
+            [ad] => TEKSTİL TEKNOLOJİSİ (İÖ)
+        )
+
+    [403] => Array
+        (
+            [id] => 705200
+            [ustid] => 7514
+            [ad] => GIDA TEKNOLOJİSİ (İÖ)
+        )
+
+    [404] => Array
+        (
+            [id] => 705100
+            [ustid] => 7519
+            [ad] => İNŞAAT TEKNOLOJİSİ (İÖ)
+        )
+
+    [405] => Array
+        (
+            [id] => 705300
+            [ustid] => 7510
+            [ad] => BİLGİSAYAR PROGRAMCILIĞI (İÖ)
+        )
+
+    [406] => Array
+        (
+            [id] => 705400
+            [ustid] => 7512
+            [ad] => ELEKTRONİK TEKNOLOJİSİ (İÖ)
+        )
+
+    [407] => Array
+        (
+            [id] => 715885
+            [ustid] => 7512
+            [ad] => MEKATRONİK (İÖ)
+        )
+
+    [408] => Array
+        (
+            [id] => 709100
+            [ustid] => 7517
+            [ad] => BİLG.TEKN.VE PROG. (İÖ)
+        )
+
+    [409] => Array
+        (
+            [id] => 709202
+            [ustid] => 7517
+            [ad] => 02 İLETİM DAĞITIM VE TESİSAT (İÖ)
+        )
+
+    [410] => Array
+        (
+            [id] => 709201
+            [ustid] => 7517
+            [ad] => 01 FABRİKA BAKIM VE İMALAT (İÖ)
+        )
+
+    [411] => Array
+        (
+            [id] => 709300
+            [ustid] => 7517
+            [ad] => ENDÜSTRİYEL ELEKTRONİK (İÖ)
+        )
+
+    [412] => Array
+        (
+            [id] => 709405
+            [ustid] => 7517
+            [ad] => 05 KONFEKSİYON (İÖ)
+        )
+
+    [413] => Array
+        (
+            [id] => 709401
+            [ustid] => 7517
+            [ad] => 01 DOKUMA (İÖ)
+        )
+
+    [414] => Array
+        (
+            [id] => 709402
+            [ustid] => 7517
+            [ad] => 02 İPLİKÇİLİK (İÖ)
+        )
+
+    [415] => Array
+        (
+            [id] => 709403
+            [ustid] => 7517
+            [ad] => 03 ÖRME (İÖ)
+        )
+
+    [416] => Array
+        (
+            [id] => 709404
+            [ustid] => 7517
+            [ad] => 04 TRİKOTAJ (İÖ)
+        )
+
+    [417] => Array
+        (
+            [id] => 709400
+            [ustid] => 7517
+            [ad] => TEKSTİL (İÖ) (Haz.Giy)
+        )
+
+    [418] => Array
+        (
+            [id] => 709406
+            [ustid] => 7517
+            [ad] => 06 TEKSTİL TERBİYESİ (İÖ)
+        )
+
+    [419] => Array
+        (
+            [id] => 709407
+            [ustid] => 7517
+            [ad] => 07 KALİTE KONTROL (İÖ)
+        )
+
+    [420] => Array
+        (
+            [id] => 709501
+            [ustid] => 7517
+            [ad] => 01 ÜRETİM (İÖ)
+        )
+
+    [421] => Array
+        (
+            [id] => 709504
+            [ustid] => 7517
+            [ad] => 04 FABRİKA BAKIM
+        )
+
+    [422] => Array
+        (
+            [id] => 709500
+            [ustid] => 7517
+            [ad] => MAKİNE (İÖ) (Kay.Tek.)
+        )
+
+    [423] => Array
+        (
+            [id] => 709503
+            [ustid] => 7517
+            [ad] => 03 TALAŞSIZ ŞEKİLLENDİRME VE KAYNAK TEKNOLOJİLERİ (İÖ)
+        )
+
+    [424] => Array
+        (
+            [id] => 709502
+            [ustid] => 7517
+            [ad] => 02 BİLGİSAYARLI TASARIM VE ÜRETİM (İÖ)
+        )
+
+    [425] => Array
+        (
+            [id] => 709603
+            [ustid] => 7517
+            [ad] => 03 TALAŞSIZ ŞEKİLLENDİRME VE KAYNAK TEKNOLOJİLERİ (İÖ)
+        )
+
+    [426] => Array
+        (
+            [id] => 709602
+            [ustid] => 7517
+            [ad] => 02 BİLGİSAYARLI TASARIM VE ÜRETİM (İÖ)
+        )
+
+    [427] => Array
+        (
+            [id] => 709604
+            [ustid] => 7517
+            [ad] => 04 FABRİKA BAKIM (İÖ)
+        )
+
+    [428] => Array
+        (
+            [id] => 709601
+            [ustid] => 7517
+            [ad] => 01 ÜRETİM (İÖ)
+        )
+
+    [429] => Array
+        (
+            [id] => 709700
+            [ustid] => 7517
+            [ad] => MOBİLYA VE DEKORASYON  (İÖ)
+        )
+
+    [430] => Array
+        (
+            [id] => 71
+            [ustid] => 0
+            [ad] => SOSYAL BİLİMLER MESLEK YÜKSEKOKULU
+        )
+
+    [431] => Array
+        (
+            [id] => 7509
+            [ustid] => 71
+            [ad] => İKTİSADİ VE İDARİ PROGRAMLAR
+        )
+
+    [432] => Array
+        (
+            [id] => 710100
+            [ustid] => 7509
+            [ad] => İŞLETMECİLİK
+        )
+
+    [433] => Array
+        (
+            [id] => 710200
+            [ustid] => 7509
+            [ad] => MUHASEBE
+        )
+
+    [434] => Array
+        (
+            [id] => 710201
+            [ustid] => 7509
+            [ad] => 01 MUHASEBE
+        )
+
+    [435] => Array
+        (
+            [id] => 710301
+            [ustid] => 7509
+            [ad] => 01 YÖNETİM
+        )
+
+    [436] => Array
+        (
+            [id] => 710300
+            [ustid] => 7509
+            [ad] => İŞLETME
+        )
+
+    [437] => Array
+        (
+            [id] => 710302
+            [ustid] => 7509
+            [ad] => 02 FİNANSMAN
+        )
+
+    [438] => Array
+        (
+            [id] => 7503
+            [ustid] => 71
+            [ad] => FİNANS-BANKACILIK VE SİGORTACILIK
+        )
+
+    [439] => Array
+        (
+            [id] => 710400
+            [ustid] => 7503
+            [ad] => MALİYE
+        )
+
+    [440] => Array
+        (
+            [id] => 7506
+            [ustid] => 71
+            [ad] => DIŞ TİCARET
+        )
+
+    [441] => Array
+        (
+            [id] => 710500
+            [ustid] => 7506
+            [ad] => DIŞ TİCARET
+        )
+
+    [442] => Array
+        (
+            [id] => 7508
+            [ustid] => 71
+            [ad] => YÖNETİM VE ORGANİZASYON
+        )
+
+    [443] => Array
+        (
+            [id] => 710600
+            [ustid] => 7508
+            [ad] => İŞLETME YÖNETİMİ
+        )
+
+    [444] => Array
+        (
+            [id] => 7505
+            [ustid] => 71
+            [ad] => MUHASEBE VE VERGİ
+        )
+
+    [445] => Array
+        (
+            [id] => 710700
+            [ustid] => 7505
+            [ad] => MUHASEBE VE VERGİ UYGULAMALARI
+        )
+
+    [446] => Array
+        (
+            [id] => 7507
+            [ustid] => 71
+            [ad] => ULAŞTIRMA HİZMETLERİ
+        )
+
+    [447] => Array
+        (
+            [id] => 5225
+            [ustid] => 7507
+            [ad] => SİVİL HAVACILIK  KABİN HİZMETLERİ
+        )
+
+    [448] => Array
+        (
+            [id] => 7504
+            [ustid] => 71
+            [ad] => GÖRSEL-İŞİTSEL TEKNİKLER VE MEDYA YAPIMCILIĞI
+        )
+
+    [449] => Array
+        (
+            [id] => 715883
+            [ustid] => 7504
+            [ad] => RADYO VE TELEVİZYON PROGRAMCILIĞI
+        )
+
+    [450] => Array
+        (
+            [id] => 715970
+            [ustid] => 7508
+            [ad] => LOJİSTİK
+        )
+
+    [451] => Array
+        (
+            [id] => 715969
+            [ustid] => 7504
+            [ad] => BASIM VE YAYIN TEKNOLOJİLERİ
+        )
+
+    [452] => Array
+        (
+            [id] => 716029
+            [ustid] => 7504
+            [ad] => BASIM VE YAYIN TEKNOLOJİLERİ (İÖ)
+        )
+
+    [453] => Array
+        (
+            [id] => 715200
+            [ustid] => 7509
+            [ad] => MUHASEBE (İÖ)
+        )
+
+    [454] => Array
+        (
+            [id] => 715300
+            [ustid] => 7509
+            [ad] => İŞLETME (İÖ)
+        )
+
+    [455] => Array
+        (
+            [id] => 715400
+            [ustid] => 7503
+            [ad] => MALİYE (İÖ)
+        )
+
+    [456] => Array
+        (
+            [id] => 715500
+            [ustid] => 7506
+            [ad] => DIŞ TİCARET (İÖ)
+        )
+
+    [457] => Array
+        (
+            [id] => 715600
+            [ustid] => 7508
+            [ad] => İŞLETME YÖNETİMİ (İÖ)
+        )
+
+    [458] => Array
+        (
+            [id] => 715700
+            [ustid] => 7505
+            [ad] => MUHASEBE VE VERGİ UYGULAMALARI (İÖ)
+        )
+
+    [459] => Array
+        (
+            [id] => 715746
+            [ustid] => 7507
+            [ad] => SİVİL HAVACILIK KABİN HİZMETLERİ (İÖ)
+        )
+
+    [460] => Array
+        (
+            [id] => 715884
+            [ustid] => 7504
+            [ad] => RADYO VE TELEVİZYON PROGRAMCILIĞI (İÖ)
+        )
+
+    [461] => Array
+        (
+            [id] => 81
+            [ustid] => 0
+            [ad] => SOSYAL BİLİMLER ENSTİTÜSÜ
+        )
+
+    [462] => Array
+        (
+            [id] => 5394
+            [ustid] => 81
+            [ad] => FELSEFE
+        )
+
+    [463] => Array
+        (
+            [id] => 11
+            [ustid] => 5394
+            [ad] => FELSEFE TEZLİ YÜKSEK LİSANS
+        )
+
+    [464] => Array
+        (
+            [id] => 5395
+            [ustid] => 81
+            [ad] => TARİH
+        )
+
+    [465] => Array
+        (
+            [id] => 5226
+            [ustid] => 5395
+            [ad] => TARİH TEZLİ YÜKSEK LİSANS
+        )
+
+    [466] => Array
+        (
+            [id] => 5396
+            [ustid] => 81
+            [ad] => İKTİSAT
+        )
+
+    [467] => Array
+        (
+            [id] => 14
+            [ustid] => 5396
+            [ad] => İKTİSAT TEZLİ YÜKSEK LİSANS (MARMARA ORTAK)
+        )
+
+    [468] => Array
+        (
+            [id] => 5397
+            [ustid] => 81
+            [ad] => İŞLETME
+        )
+
+    [469] => Array
+        (
+            [id] => 15
+            [ustid] => 5397
+            [ad] => İŞLETME TEZLİ YÜKSEK LİSANS (MARMARA ORTAK)
+        )
+
+    [470] => Array
+        (
+            [id] => 5398
+            [ustid] => 81
+            [ad] => TÜRK DİLİ VE EDEBİYATI
+        )
+
+    [471] => Array
+        (
+            [id] => 13
+            [ustid] => 5398
+            [ad] => TÜRK DİLİ VE EDEBİYATI ORTAK TEZLİ YÜKSEK LİSANS (MARMARA ORTAK)
+        )
+
+    [472] => Array
+        (
+            [id] => 5404
+            [ustid] => 81
+            [ad] => SAĞLIK KURUMLARI İŞLETMECİLİĞİ
+        )
+
+    [473] => Array
+        (
+            [id] => 12
+            [ustid] => 5404
+            [ad] => SAĞLIK KURUMLARI İŞLETMECİLİĞİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [474] => Array
+        (
+            [id] => 5400
+            [ustid] => 81
+            [ad] => ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ
+        )
+
+    [475] => Array
+        (
+            [id] => 5329
+            [ustid] => 5400
+            [ad] => ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [476] => Array
+        (
+            [id] => 5401
+            [ustid] => 81
+            [ad] => TURİZM İŞLETMECİLİĞİ
+        )
+
+    [477] => Array
+        (
+            [id] => 5348
+            [ustid] => 5401
+            [ad] => TURİZM İŞLETMECİLİĞİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [478] => Array
+        (
+            [id] => 5429
+            [ustid] => 5400
+            [ad] => İNSAN KAYNAKLARI YÖNETİMİ (İÖ) TEZSİZ YÜKSEK LİSANS
+        )
+
+    [479] => Array
+        (
+            [id] => 5430
+            [ustid] => 5401
+            [ad] => TURİZM İŞLETMECİLİĞİ (İÖ) TEZSİZ YÜKSEK LİSANS
+        )
+
+    [480] => Array
+        (
+            [id] => 5399
+            [ustid] => 81
+            [ad] => SAĞLIK KURULUŞLARI YÖNETİCİLİĞİ
+        )
+
+    [481] => Array
+        (
+            [id] => 5431
+            [ustid] => 5399
+            [ad] => SAĞLIK KURULUŞLARI YÖNETİCİLİĞİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [482] => Array
+        (
+            [id] => 5402
+            [ustid] => 81
+            [ad] => ÇAĞDAŞ TÜRK LEHÇELERİ VE EDEBİYATLARI
+        )
+
+    [483] => Array
+        (
+            [id] => 5449
+            [ustid] => 5402
+            [ad] => ÇAĞDAŞ TÜRK LEHÇELERİ VE EDEBİYATLARI TEZLİ YÜKSEK LİSANS
+        )
+
+    [484] => Array
+        (
+            [id] => 5403
+            [ustid] => 81
+            [ad] => TEMEL İSLAM BİLİMLERİ
+        )
+
+    [485] => Array
+        (
+            [id] => 5450
+            [ustid] => 5403
+            [ad] => TEMEL İSLAM BİLİMLERİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [486] => Array
+        (
+            [id] => 5488
+            [ustid] => 5398
+            [ad] => TÜRK DİLİ VE EDEBİYATI YÜKSEK LİSANS(TEZLİ)
+        )
+
+    [487] => Array
+        (
+            [id] => 5489
+            [ustid] => 5396
+            [ad] => İKTİSAT TEZLİ YÜKSEK LİSANS
+        )
+
+    [488] => Array
+        (
+            [id] => 5490
+            [ustid] => 5397
+            [ad] => İŞLETME TEZLİ YÜKSEK LİSANS
+        )
+
+    [489] => Array
+        (
+            [id] => 5493
+            [ustid] => 5397
+            [ad] => İŞLETME YÜKSEK LİSANS TEZSİZ(İÖ)
+        )
+
+    [490] => Array
+        (
+            [id] => 7638
+            [ustid] => 81
+            [ad] => BANKACILIK VE FİNANS
+        )
+
+    [491] => Array
+        (
+            [id] => 716061
+            [ustid] => 7638
+            [ad] => BANKACILIK VE FİNANS TEZLİ YÜKSEK LİSANS
+        )
+
+    [492] => Array
+        (
+            [id] => 716062
+            [ustid] => 7638
+            [ad] => BANKACILIK VE FİNANS (İÖ) TEZSİZ YÜKSEK LİSANS
+        )
+
+    [493] => Array
+        (
+            [id] => 716063
+            [ustid] => 5396
+            [ad] => YÖNETİM EKONOMİSİ (İÖ) TEZSİZ YÜKSEK LİSANS
+        )
+
+    [494] => Array
+        (
+            [id] => 716064
+            [ustid] => 5396
+            [ad] => FİNANSAL EKONOMİ (İÖ) TEZSİZ YÜKSEK LİSANS
+        )
+
+    [495] => Array
+        (
+            [id] => 10
+            [ustid] => 5394
+            [ad] => FELSEFE DOKTORA
+        )
+
+    [496] => Array
+        (
+            [id] => 5331
+            [ustid] => 5395
+            [ad] => TARİH DOKTORA
+        )
+
+    [497] => Array
+        (
+            [id] => 5330
+            [ustid] => 5400
+            [ad] => ÇALIŞMA EKONOMİSİ VE ENDÜSTRİ İLİŞKİLERİ DOKTORA
+        )
+
+    [498] => Array
+        (
+            [id] => 5428
+            [ustid] => 5396
+            [ad] => İKTİSAT DOKTORA
+        )
+
+    [499] => Array
+        (
+            [id] => 5495
+            [ustid] => 5401
+            [ad] => TURİZM İŞLETMECİLİĞİ TEZSİZ YÜKSEK LİSANS(UZAKTAN ÖĞRETİM)
+        )
+
+    [500] => Array
+        (
+            [id] => 5494
+            [ustid] => 5400
+            [ad] => İNSAN KAYNAKLARI YÖNETİMİ TEZSİZ YÜKSEKLİSANS(UZAKTAN)
+        )
+
+    [501] => Array
+        (
+            [id] => 82
+            [ustid] => 0
+            [ad] => FEN BİLİMLERİ ENSTİTÜSÜ
+        )
+
+    [502] => Array
+        (
+            [id] => 5388
+            [ustid] => 82
+            [ad] => FİZİK 
+        )
+
+    [503] => Array
+        (
+            [id] => 5268
+            [ustid] => 5388
+            [ad] => FİZİK TEZLİ YÜKSEK LİSANS
+        )
+
+    [504] => Array
+        (
+            [id] => 5389
+            [ustid] => 82
+            [ad] => İNŞAAT MÜHENDİSLİĞİ 
+        )
+
+    [505] => Array
+        (
+            [id] => 5332
+            [ustid] => 5389
+            [ad] => İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [506] => Array
+        (
+            [id] => 5390
+            [ustid] => 82
+            [ad] => ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİ 
+        )
+
+    [507] => Array
+        (
+            [id] => 5388
+            [ustid] => 5390
+            [ad] => ELEKTRİK ELEKTRONİK MÜHENDİSLİĞİ TEZLİ YÜKSEKLİSANS
+        )
+
+    [508] => Array
+        (
+            [id] => 5391
+            [ustid] => 82
+            [ad] => ENERJİ SİSTEMLERİ MÜHENDİSLİĞİ
+        )
+
+    [509] => Array
+        (
+            [id] => 5389
+            [ustid] => 5391
+            [ad] => ENERJİ SİSTEMLERİ MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [510] => Array
+        (
+            [id] => 5392
+            [ustid] => 82
+            [ad] => KİMYA 
+        )
+
+    [511] => Array
+        (
+            [id] => 5408
+            [ustid] => 5392
+            [ad] => KİMYA TEZLİ YÜKSEK LİSANS
+        )
+
+    [512] => Array
+        (
+            [id] => 5393
+            [ustid] => 82
+            [ad] => MAKİNE MÜHENDİSLİĞİ
+        )
+
+    [513] => Array
+        (
+            [id] => 5448
+            [ustid] => 5393
+            [ad] => MAKİNE MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [514] => Array
+        (
+            [id] => 5408
+            [ustid] => 82
+            [ad] => İŞ SAĞLIĞI VE GÜVENLİĞİ (DİSİPLİNLERARASI)
+        )
+
+    [515] => Array
+        (
+            [id] => 5491
+            [ustid] => 5408
+            [ad] => İŞ SAĞLIĞI VE GÜVENLİĞİ(DİSİPLİNLERARASI)(YL)(TEZLİ)
+        )
+
+    [516] => Array
+        (
+            [id] => 5492
+            [ustid] => 5408
+            [ad] => İŞ SAĞLIĞI VE GÜVENLİĞİ(DİSİPLİNLERARASI) (İÖ) (TEZSİZ)
+        )
+
+    [517] => Array
+        (
+            [id] => 5468
+            [ustid] => 5388
+            [ad] => FİZİK DOKTORA
+        )
+
+    [518] => Array
+        (
+            [id] => 83
+            [ustid] => 0
+            [ad] => SAĞLIK BİLİMLERİ ENSTİTÜSÜ
+        )
+
+    [519] => Array
+        (
+            [id] => 5288
+            [ustid] => 83
+            [ad] => ÇOCUK GELİŞİMİ
+        )
+
+    [520] => Array
+        (
+            [id] => 5368
+            [ustid] => 5288
+            [ad] => ÇOCUK GELİŞİMİ TEZLİ YÜKSEK LİSANS
+        )
+
+    [521] => Array
+        (
+            [id] => 5289
+            [ustid] => 83
+            [ad] => HALK SAĞLIĞI
+        )
+
+    [522] => Array
+        (
+            [id] => 5369
+            [ustid] => 5289
+            [ad] => HALK SAĞLIĞI TEZLİ YÜKSEK LİSANS
+        )
+
+    [523] => Array
+        (
+            [id] => 5290
+            [ustid] => 83
+            [ad] => HEMŞİRELİK
+        )
+
+    [524] => Array
+        (
+            [id] => 5370
+            [ustid] => 5290
+            [ad] => HEMŞİRELİK TEZLİ YÜKSEK LİSANS
+        )
+
+    [525] => Array
+        (
+            [id] => 7640
+            [ustid] => 83
+            [ad] => EBELİK
+        )
+
+    [526] => Array
+        (
+            [id] => 716065
+            [ustid] => 7640
+            [ad] => EBELİK TEZLİ YÜKSEK LİSANS
+        )
+
+    [527] => Array
+        (
+            [id] => 716066
+            [ustid] => 5289
+            [ad] => HALK SAĞLIĞI DOKTORA
+        )
+
+    [528] => Array
+        (
+            [id] => 100
+            [ustid] => 0
+            [ad] => PEDAGOJİK FORMASYON
+        )
+
+    [529] => Array
+        (
+            [id] => 7318
+            [ustid] => 100
+            [ad] => ÖĞRETMENLİK MESLEK BİLGİSİ
+        )
+
+    [530] => Array
+        (
+            [id] => 715841
+            [ustid] => 7318
+            [ad] => ÖĞRETMENLİK MESLEK BİLGİSİ
+        )
+
+    [531] => Array
+        (
+            [id] => 7319
+            [ustid] => 100
+            [ad] => TARİH
+        )
+
+    [532] => Array
+        (
+            [id] => 715842
+            [ustid] => 7319
+            [ad] => TARİH
+        )
+
+    [533] => Array
+        (
+            [id] => 7320
+            [ustid] => 100
+            [ad] => TÜRK DİLİ VE EDEBİYATI
+        )
+
+    [534] => Array
+        (
+            [id] => 715843
+            [ustid] => 7320
+            [ad] => TÜRK DİLİ VE EDEBİYATI
+        )
+
+    [535] => Array
+        (
+            [id] => 7321
+            [ustid] => 100
+            [ad] => ÇOCUK GELİŞİMİ VE EĞİTİMİ
+        )
+
+    [536] => Array
+        (
+            [id] => 715844
+            [ustid] => 7321
+            [ad] => ÇOCUK GELİŞİMİ VE EĞİTİMİ
+        )
+
+    [537] => Array
+        (
+            [id] => 7338
+            [ustid] => 100
+            [ad] => FELSEFE
+        )
+
+    [538] => Array
+        (
+            [id] => 715861
+            [ustid] => 7338
+            [ad] => FELSEFE
+        )
+
+    [539] => Array
+        (
+            [id] => 7339
+            [ustid] => 100
+            [ad] => KİMYA/KİMYA TEKNOLOJİSİ
+        )
+
+    [540] => Array
+        (
+            [id] => 715862
+            [ustid] => 7339
+            [ad] => KİMYA/KİMYA TEKNOLOJİSİ
+        )
+
+    [541] => Array
+        (
+            [id] => 7340
+            [ustid] => 100
+            [ad] => SAĞLIK
+        )
+
+    [542] => Array
+        (
+            [id] => 715864
+            [ustid] => 7340
+            [ad] => SAĞLIK
+        )
+
+    [543] => Array
+        (
+            [id] => 7341
+            [ustid] => 100
+            [ad] => KONAKLAMA VE SEYAHAT HİZMETLERİ
+        )
+
+    [544] => Array
+        (
+            [id] => 715863
+            [ustid] => 7341
+            [ad] => KONAKLAMA VE SEYAHAT HİZMETLERİ
+        )
+
+    [545] => Array
+        (
+            [id] => 7398
+            [ustid] => 100
+            [ad] => MATEMATİK
+        )
+
+    [546] => Array
+        (
+            [id] => 715921
+            [ustid] => 7398
+            [ad] => MATEMATİK
+        )
+
+    [547] => Array
+        (
+            [id] => 7418
+            [ustid] => 100
+            [ad] => ACİL SAĞLIK HİZMETLERİ
+        )
+
+    [548] => Array
+        (
+            [id] => 715941
+            [ustid] => 7418
+            [ad] => ACİL SAĞLIK HİZMETLERİ
+        )
+
+    [549] => Array
+        (
+            [id] => 7419
+            [ustid] => 100
+            [ad] => ADALET
+        )
+
+    [550] => Array
+        (
+            [id] => 715942
+            [ustid] => 7419
+            [ad] => ADALET
+        )
+
+    [551] => Array
+        (
+            [id] => 7420
+            [ustid] => 100
+            [ad] => ALMANCA
+        )
+
+    [552] => Array
+        (
+            [id] => 715943
+            [ustid] => 7420
+            [ad] => ALMANCA
+        )
+
+    [553] => Array
+        (
+            [id] => 7421
+            [ustid] => 100
+            [ad] => BEDEN EĞİTİMİ
+        )
+
+    [554] => Array
+        (
+            [id] => 715944
+            [ustid] => 7421
+            [ad] => BEDEN EĞİTİMİ
+        )
+
+    [555] => Array
+        (
+            [id] => 7422
+            [ustid] => 100
+            [ad] => BİYOLOJİ
+        )
+
+    [556] => Array
+        (
+            [id] => 715945
+            [ustid] => 7422
+            [ad] => BİYOLOJİ
+        )
+
+    [557] => Array
+        (
+            [id] => 7423
+            [ustid] => 100
+            [ad] => DİN KÜLTÜRÜ VE AHLAK BİLGİSİ
+        )
+
+    [558] => Array
+        (
+            [id] => 715946
+            [ustid] => 7423
+            [ad] => DİN KÜLTÜRÜ VE AHLAK BİLGİSİ
+        )
+
+    [559] => Array
+        (
+            [id] => 7424
+            [ustid] => 100
+            [ad] => FİZİK
+        )
+
+    [560] => Array
+        (
+            [id] => 715947
+            [ustid] => 7424
+            [ad] => FİZİK
+        )
+
+    [561] => Array
+        (
+            [id] => 7425
+            [ustid] => 100
+            [ad] => FRANSIZCA
+        )
+
+    [562] => Array
+        (
+            [id] => 715948
+            [ustid] => 7425
+            [ad] => FRANSIZCA
+        )
+
+    [563] => Array
+        (
+            [id] => 7426
+            [ustid] => 100
+            [ad] => HASTA VE YAŞLI HİZMETLERİ
+        )
+
+    [564] => Array
+        (
+            [id] => 715949
+            [ustid] => 7426
+            [ad] => HASTA VE YAŞLI HİZMETLERİ
+        )
+
+    [565] => Array
+        (
+            [id] => 7427
+            [ustid] => 100
+            [ad] => İMAM HATİP MESLEK DERSLERİ
+        )
+
+    [566] => Array
+        (
+            [id] => 715950
+            [ustid] => 7427
+            [ad] => İMAM HATİP MESLEK DERSLERİ
+        )
+
+    [567] => Array
+        (
+            [id] => 7428
+            [ustid] => 100
+            [ad] => İNGİLİZCE
+        )
+
+    [568] => Array
+        (
+            [id] => 715951
+            [ustid] => 7428
+            [ad] => İNGİLİZCE
+        )
+
+    [569] => Array
+        (
+            [id] => 7429
+            [ustid] => 100
+            [ad] => MUHASEBE VE FİNANSMAN
+        )
+
+    [570] => Array
+        (
+            [id] => 715952
+            [ustid] => 7429
+            [ad] => MUHASEBE VE FİNANSMAN
+        )
+
+    [571] => Array
+        (
+            [id] => 7434
+            [ustid] => 100
+            [ad] => MÜZİK
+        )
+
+    [572] => Array
+        (
+            [id] => 715953
+            [ustid] => 7434
+            [ad] => MÜZİK
+        )
+
+    [573] => Array
+        (
+            [id] => 7435
+            [ustid] => 100
+            [ad] => PSİKOLOJİ
+        )
+
+    [574] => Array
+        (
+            [id] => 715954
+            [ustid] => 7435
+            [ad] => PSİKOLOJİ
+        )
+
+    [575] => Array
+        (
+            [id] => 7436
+            [ustid] => 100
+            [ad] => RUSÇA
+        )
+
+    [576] => Array
+        (
+            [id] => 715955
+            [ustid] => 7436
+            [ad] => RUSÇA
+        )
+
+    [577] => Array
+        (
+            [id] => 7437
+            [ustid] => 100
+            [ad] => SAĞLIK HİZMETLERİ SEKRETERLİĞİ
+        )
+
+    [578] => Array
+        (
+            [id] => 715956
+            [ustid] => 7437
+            [ad] => SAĞLIK HİZMETLERİ SEKRETERLİĞİ
+        )
+
+    [durum] => ok
+)

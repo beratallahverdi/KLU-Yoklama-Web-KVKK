@@ -1,0 +1,472 @@
+array(37) {
+  ["durum"]=>
+  string(2) "ok"
+  [0]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505047"
+    ["AD_SOYAD"]=>
+    string(13) "RASİM SAVAŞ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "68"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [1]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505010"
+    ["AD_SOYAD"]=>
+    string(21) "ZAFER FARUK ÖZDEMİR"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "70"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [2]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505037"
+    ["AD_SOYAD"]=>
+    string(21) "SÜMEYYE SEVDE KILIÇ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "61"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [3]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505005"
+    ["AD_SOYAD"]=>
+    string(16) "KAAN ENES KAPICI"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "62"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [4]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505045"
+    ["AD_SOYAD"]=>
+    string(12) "DAMLA KUŞKU"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "53"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [5]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505041"
+    ["AD_SOYAD"]=>
+    string(13) "ERDEM ŞAHİN"
+    ["SINAV_GIRME_TIP"]=>
+    string(5) "Girdi"
+    ["SINAV_NOT"]=>
+    string(1) "0"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [6]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505023"
+    ["AD_SOYAD"]=>
+    string(16) "SERKAN KOCAİRİ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "66"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [7]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505035"
+    ["AD_SOYAD"]=>
+    string(15) "SİMGE ÇELEBİ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "66"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [8]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505012"
+    ["AD_SOYAD"]=>
+    string(15) "MERVE GÜLAÇTI"
+    ["SINAV_GIRME_TIP"]=>
+    string(5) "Girdi"
+    ["SINAV_NOT"]=>
+    string(1) "0"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [9]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505046"
+    ["AD_SOYAD"]=>
+    string(12) "OZAN ULUDAĞ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "45"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [10]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505015"
+    ["AD_SOYAD"]=>
+    string(14) "HİLAL DİKMAN"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "33"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [11]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505036"
+    ["AD_SOYAD"]=>
+    string(12) "MELEK DEDİK"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "34"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [12]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505057"
+    ["AD_SOYAD"]=>
+    string(15) "NAZLI CAN ALTIN"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "71"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [13]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505013"
+    ["AD_SOYAD"]=>
+    string(15) "NURSENA ALTUNAY"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "42"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [14]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505048"
+    ["AD_SOYAD"]=>
+    string(27) "ERTUĞRUL BERAT ALLAHVERDİ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "88"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [15]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505040"
+    ["AD_SOYAD"]=>
+    string(15) "FURKAN KAHVECİ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "68"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [16]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505018"
+    ["AD_SOYAD"]=>
+    string(14) "BARAN BAŞARAN"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "61"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [17]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505028"
+    ["AD_SOYAD"]=>
+    string(17) "ÖMER FARUK TÜRK"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "60"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [18]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505055"
+    ["AD_SOYAD"]=>
+    string(18) "NİLÜFER SİLEMEK"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "56"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [19]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505064"
+    ["AD_SOYAD"]=>
+    string(13) "ELİF ŞAHİN"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "92"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [20]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505061"
+    ["AD_SOYAD"]=>
+    string(15) "İSHAK AYYILDIZ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "71"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [21]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505007"
+    ["AD_SOYAD"]=>
+    string(19) "FATMA BETÜL TURKUT"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "93"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [22]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505019"
+    ["AD_SOYAD"]=>
+    string(18) "FURKAN BERK AKDAŞ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "48"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [23]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505051"
+    ["AD_SOYAD"]=>
+    string(12) "ŞAHAN AYDIN"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "71"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [24]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505053"
+    ["AD_SOYAD"]=>
+    string(13) "SELİN DURSUN"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(1) "5"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [25]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505004"
+    ["AD_SOYAD"]=>
+    string(19) "ONUR EMRE BOZDEMİR"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "61"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [26]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505050"
+    ["AD_SOYAD"]=>
+    string(13) "BURAK AKBULUT"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "56"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [27]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505025"
+    ["AD_SOYAD"]=>
+    string(18) "NİHAT ALP CİNCAN"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "71"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [28]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505020"
+    ["AD_SOYAD"]=>
+    string(16) "UĞURCAN SEZGİN"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "48"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [29]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505058"
+    ["AD_SOYAD"]=>
+    string(12) "BİRKAN KORU"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "71"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [30]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505016"
+    ["AD_SOYAD"]=>
+    string(19) "BÜNYAMİN GÖKKAYA"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "27"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [31]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505038"
+    ["AD_SOYAD"]=>
+    string(18) "MELİH ÖZGÜVENÇ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "80"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [32]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505039"
+    ["AD_SOYAD"]=>
+    string(24) "MUHAMMED CİHAD YILDIRIM"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "55"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [33]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505052"
+    ["AD_SOYAD"]=>
+    string(12) "BERKAY ATEŞ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "61"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [34]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505003"
+    ["AD_SOYAD"]=>
+    string(16) "AYŞENUR SÜNGÜ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "58"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+  [35]=>
+  array(5) {
+    ["OGR_NO"]=>
+    string(10) "1160505008"
+    ["AD_SOYAD"]=>
+    string(14) "ÖZGÜR YILMAZ"
+    ["SINAV_GIRME_TIP"]=>
+    string(7) "Girmedi"
+    ["SINAV_NOT"]=>
+    string(2) "66"
+    ["SINAV_NOT_GIRIS_TARIH"]=>
+    string(18) "28.5.2019 08:04:38"
+  }
+}
